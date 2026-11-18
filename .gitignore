@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.cache/
+runs/
+release/
+voices/
+MOSAIC/
+*.wav
+*.mp3
+*.flac
+*.npy
+!resources/audio_assets/**

@@ -1,0 +1,7249 @@
+{
+ "blocks": {
+  "c235c2778be65237": {
+   "label": "respect",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Unspecified maternal hypertension complicating pregnancy"
+   },
+   "patient": {
+    "age": 29,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_african_f_twenties_42785961.wav"
+   },
+   "icd10": "O16"
+  },
+  "3726ae35f8a9730a": {
+   "label": "respect",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Rh alloimmunization affecting pregnancy"
+   },
+   "patient": {
+    "age": 41,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_american_f_fourties_18920889.wav"
+   },
+   "icd10": "O36.0"
+  },
+  "de77b054baaf1e13": {
+   "label": "respect",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Suspected fetopelvic disproportion"
+   },
+   "patient": {
+    "age": 22,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_australian_f_twenties_22980619.wav"
+   },
+   "icd10": "O33.9"
+  },
+  "1fbb9c0d154cede7": {
+   "label": "respect",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Pregnancy supervision for unspecified high-risk pregnancy"
+   },
+   "patient": {
+    "age": 33,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_british_f_thirties_554854.wav"
+   },
+   "icd10": "Z35.9"
+  },
+  "01794851fb8d6989": {
+   "label": "respect",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Twin pregnancy"
+   },
+   "patient": {
+    "age": 20,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_southasian_f_twenties_546072.wav"
+   },
+   "icd10": "O30.0"
+  },
+  "fdd3380a2b19850a": {
+   "label": "flow",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Pregnancy supervision for other specified high-risk pregnancy"
+   },
+   "patient": {
+    "age": 29,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_american_f_twenties_19677010.wav"
+   },
+   "icd10": "Z35.8"
+  },
+  "19a2411441af0e90": {
+   "label": "flow",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Maternal care for pelvic deformity affecting pregnancy"
+   },
+   "patient": {
+    "age": 22,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_australian_f_twenties_41800258.wav"
+   },
+   "icd10": "O33.0"
+  },
+  "20c2a3e48727497e": {
+   "label": "flow",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "False labor before 37 completed weeks"
+   },
+   "patient": {
+    "age": 32,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_british_f_thirties_26897331.wav"
+   },
+   "icd10": "O47.0"
+  },
+  "a45eff371cc0f24b": {
+   "label": "flow",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Missed miscarriage"
+   },
+   "patient": {
+    "age": 37,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_southasian_f_thirties_19677467.wav"
+   },
+   "icd10": "O02.1"
+  },
+  "01d026c3d845c5aa": {
+   "label": "flow",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Gestational edema"
+   },
+   "patient": {
+    "age": 20,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_african_f_twenties_38396634.wav"
+   },
+   "icd10": "O12.0"
+  },
+  "582210d344528924": {
+   "label": "concerns",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Myasthenia gravis complicating pregnancy"
+   },
+   "patient": {
+    "age": 41,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_australian_f_fourties_19458027.wav"
+   },
+   "icd10": "O99.3"
+  },
+  "1d9ef025ede3bbe7": {
+   "label": "concerns",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Incomplete spontaneous miscarriage without complication"
+   },
+   "patient": {
+    "age": 29,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_british_f_twenties_27398700.wav"
+   },
+   "icd10": "O03.4"
+  },
+  "dd13352d9b9e7571": {
+   "label": "concerns",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Obsessive-compulsive disorder complicating pregnancy"
+   },
+   "patient": {
+    "age": 40,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_southasian_f_fourties_26990084.wav"
+   },
+   "icd10": "O99.3"
+  },
+  "b554427025c4106d": {
+   "label": "concerns",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Pregnancy-related liver disorder"
+   },
+   "patient": {
+    "age": 35,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_african_f_thirties_18422993.wav"
+   },
+   "icd10": "O26.6"
+  },
+  "ef9e17d455a1a66f": {
+   "label": "concerns",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Gestational proteinuria"
+   },
+   "patient": {
+    "age": 37,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_american_f_thirties_19717153.wav"
+   },
+   "icd10": "O12.1"
+  },
+  "cffd8a6c5d3f846b": {
+   "label": "attentive",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Hyperthyroidism complicating pregnancy"
+   },
+   "patient": {
+    "age": 31,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_british_f_thirties_40598998.wav"
+   },
+   "icd10": "O99.2"
+  },
+  "1c79702e39ce5244": {
+   "label": "attentive",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Breech presentation"
+   },
+   "patient": {
+    "age": 28,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_southasian_f_twenties_24158012.wav"
+   },
+   "icd10": "O32.1"
+  },
+  "d060e2b3eae3e315": {
+   "label": "attentive",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Late vomiting of pregnancy"
+   },
+   "patient": {
+    "age": 24,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_african_f_twenties_575894.wav"
+   },
+   "icd10": "O21.2"
+  },
+  "feeb39c46dbca1bc": {
+   "label": "attentive",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Hyperparathyroidism complicating pregnancy"
+   },
+   "patient": {
+    "age": 35,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_american_f_thirties_19696341.wav"
+   },
+   "icd10": "O99.2"
+  },
+  "24165248cd145605": {
+   "label": "attentive",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Routine supervision of subsequent normal pregnancy, second trimester"
+   },
+   "patient": {
+    "age": 25,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_australian_f_twenties_205961.wav"
+   },
+   "icd10": "Z34.8"
+  },
+  "1d87cb5d8e417240": {
+   "label": "warmth",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Nausea and vomiting of pregnancy"
+   },
+   "patient": {
+    "age": 26,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_southasian_f_twenties_20393753.wav"
+   },
+   "icd10": "O21.9"
+  },
+  "e90d63fa85173bfb": {
+   "label": "warmth",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Elderly multigravida pregnancy supervision, second trimester"
+   },
+   "patient": {
+    "age": 40,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_african_f_fourties_22178626.wav"
+   },
+   "icd10": "Z35.8"
+  },
+  "1a525a41dd2aace7": {
+   "label": "warmth",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Pregnancy-related pelvic joint pain"
+   },
+   "patient": {
+    "age": 22,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_american_f_twenties_18890851.wav"
+   },
+   "icd10": "O26.7"
+  },
+  "1d39730ad789ca27": {
+   "label": "warmth",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Inadequate weight gain in pregnancy"
+   },
+   "patient": {
+    "age": 37,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_australian_f_thirties_124217.wav"
+   },
+   "icd10": "O26.1"
+  },
+  "e1a38d58ec8567a3": {
+   "label": "warmth",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Pregnancy care for recurrent pregnancy loss"
+   },
+   "patient": {
+    "age": 34,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_british_f_thirties_19645258.wav"
+   },
+   "icd10": "O26.2"
+  },
+  "ec10c704c1d91ae2": {
+   "label": "EO",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Type 1 diabetes mellitus in pregnancy"
+   },
+   "patient": {
+    "age": 25,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_african_f_twenties_38395293.wav"
+   },
+   "icd10": "O24.0"
+  },
+  "feb9d33de132ca04": {
+   "label": "EO",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Urethritis in pregnancy"
+   },
+   "patient": {
+    "age": 26,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_american_f_twenties_670104.wav"
+   },
+   "icd10": "O23.2"
+  },
+  "854e2dac32d6921a": {
+   "label": "EO",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Transverse lie"
+   },
+   "patient": {
+    "age": 41,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_australian_f_fourties_23296983.wav"
+   },
+   "icd10": "O32.2"
+  },
+  "1131fe755000b57e": {
+   "label": "EO",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Routine supervision of subsequent normal pregnancy, third trimester"
+   },
+   "patient": {
+    "age": 41,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_british_f_fourties_20018269.wav"
+   },
+   "icd10": "Z34.8"
+  },
+  "fd3436123e4d6740": {
+   "label": "EO",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Attention-deficit/hyperactivity disorder complicating pregnancy"
+   },
+   "patient": {
+    "age": 36,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_southasian_f_thirties_21513675.wav"
+   },
+   "icd10": "O99.3"
+  },
+  "08947f389030bd4f": {
+   "label": "ER",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Abnormal biochemical finding on antenatal screening"
+   },
+   "patient": {
+    "age": 37,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_american_f_thirties_636178.wav"
+   },
+   "icd10": "O28.1"
+  },
+  "d954e98fe6907579": {
+   "label": "ER",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Suspected fetal structural abnormality"
+   },
+   "patient": {
+    "age": 28,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_australian_f_twenties_37976443.wav"
+   },
+   "icd10": "O35.9"
+  },
+  "59c39c5c1cdf9562": {
+   "label": "ER",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Superficial thrombophlebitis in pregnancy"
+   },
+   "patient": {
+    "age": 25,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_british_f_twenties_19262159.wav"
+   },
+   "icd10": "O22.2"
+  },
+  "b501f2786f866eba": {
+   "label": "ER",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Cystitis in pregnancy"
+   },
+   "patient": {
+    "age": 29,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_southasian_f_twenties_546072.wav"
+   },
+   "icd10": "O23.1"
+  },
+  "2998ac0d35ff823d": {
+   "label": "ER",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Severe pre-eclampsia, including outpatient follow-up after stabilization"
+   },
+   "patient": {
+    "age": 34,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_african_f_thirties_42817051.wav"
+   },
+   "icd10": "O14.1"
+  },
+  "b4be7cd622d2cacf": {
+   "label": "S",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Abnormal hematological finding on antenatal screening"
+   },
+   "patient": {
+    "age": 30,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_australian_f_thirties_17803490.wav"
+   },
+   "icd10": "O28.0"
+  },
+  "e292ef997ac2d74b": {
+   "label": "S",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Incomplete induced abortion without complication"
+   },
+   "patient": {
+    "age": 41,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_british_f_fourties_19673159.wav"
+   },
+   "icd10": "O04.4"
+  },
+  "f3cf1016f682ff2c": {
+   "label": "S",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Unspecified pre-existing diabetes mellitus in pregnancy"
+   },
+   "patient": {
+    "age": 35,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_southasian_f_thirties_19677467.wav"
+   },
+   "icd10": "O24.3"
+  },
+  "682de3c33a3f120f": {
+   "label": "S",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Partial hydatidiform mole"
+   },
+   "patient": {
+    "age": 42,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_african_f_fourties_22178626.wav"
+   },
+   "icd10": "O01.1"
+  },
+  "69ba85c3bc23559a": {
+   "label": "S",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Suspected fetal chromosomal abnormality"
+   },
+   "patient": {
+    "age": 20,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_american_f_twenties_670104.wav"
+   },
+   "icd10": "O35.1"
+  },
+  "ae3f077e6892ffe3": {
+   "label": "ES",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Adrenal insufficiency complicating pregnancy"
+   },
+   "patient": {
+    "age": 31,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_british_f_thirties_25146275.wav"
+   },
+   "icd10": "O99.2"
+  },
+  "06e41a14b5e8bb81": {
+   "label": "ES",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Tubal ectopic pregnancy"
+   },
+   "patient": {
+    "age": 34,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_southasian_f_thirties_24003739.wav"
+   },
+   "icd10": "O00.1"
+  },
+  "41c9a2c28d74756f": {
+   "label": "ES",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Schizophrenia complicating pregnancy"
+   },
+   "patient": {
+    "age": 32,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_african_f_thirties_614775.wav"
+   },
+   "icd10": "O99.3"
+  },
+  "b1eb0d4c95d696d2": {
+   "label": "ES",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Urinary tract infection in pregnancy, unspecified site"
+   },
+   "patient": {
+    "age": 24,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_american_f_twenties_19602820.wav"
+   },
+   "icd10": "O23.4"
+  },
+  "a0ebd69115c6498f": {
+   "label": "ES",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Eating disorder complicating pregnancy"
+   },
+   "patient": {
+    "age": 32,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_australian_f_thirties_17803490.wav"
+   },
+   "icd10": "O99.3"
+  },
+  "d888f5337a6d6b2c": {
+   "label": "OE",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Bipolar disorder complicating pregnancy"
+   },
+   "patient": {
+    "age": 42,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_southasian_f_fourties_26983057.wav"
+   },
+   "icd10": "O99.3"
+  },
+  "a59d436babb5d1f8": {
+   "label": "OE",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Reduced fetal movements"
+   },
+   "patient": {
+    "age": 21,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_african_f_twenties_38394601.wav"
+   },
+   "icd10": "O36.8"
+  },
+  "3fb79aab20c7c254": {
+   "label": "OE",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Fetal growth restriction"
+   },
+   "patient": {
+    "age": 25,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_american_f_twenties_19602820.wav"
+   },
+   "icd10": "O36.5"
+  },
+  "badb3ebe53ebe385": {
+   "label": "OE",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Abnormal products of conception, unspecified"
+   },
+   "patient": {
+    "age": 36,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_australian_f_thirties_18846868.wav"
+   },
+   "icd10": "O02.9"
+  },
+  "8e6e8448958ef287": {
+   "label": "OE",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Unspecified pre-existing hypertension complicating pregnancy"
+   },
+   "patient": {
+    "age": 37,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_british_f_thirties_585997.wav"
+   },
+   "icd10": "O10.9"
+  },
+  "e588fabbb00a4002": {
+   "label": "RS",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Pregnancy supervision after infertility, second trimester"
+   },
+   "patient": {
+    "age": 20,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_african_f_twenties_19524811.wav"
+   },
+   "icd10": "Z35.0"
+  },
+  "eca72b80831e579d": {
+   "label": "RS",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Thyroid nodule complicating pregnancy"
+   },
+   "patient": {
+    "age": 20,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_american_f_twenties_18890851.wav"
+   },
+   "icd10": "O99.2"
+  },
+  "727a3cff54a20206": {
+   "label": "RS",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Asthma complicating pregnancy"
+   },
+   "patient": {
+    "age": 23,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_australian_f_twenties_20302844.wav"
+   },
+   "icd10": "O99.5"
+  },
+  "2c1ef5ec0ecdaa15": {
+   "label": "RS",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Pre-existing secondary hypertension complicating pregnancy"
+   },
+   "patient": {
+    "age": 30,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_british_f_thirties_19645258.wav"
+   },
+   "icd10": "O10.4"
+  },
+  "adb4d7bb00422e4b": {
+   "label": "RS",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Post-traumatic stress disorder complicating pregnancy"
+   },
+   "patient": {
+    "age": 39,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_southasian_f_thirties_24003739.wav"
+   },
+   "icd10": "O99.3"
+  },
+  "6cb8e72e322a72d8": {
+   "label": "EQ",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Lower-extremity varicose veins in pregnancy"
+   },
+   "patient": {
+    "age": 40,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_american_f_fourties_33322125.wav"
+   },
+   "icd10": "O22.0"
+  },
+  "c4f8f5e2789504e9": {
+   "label": "EQ",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Pregnancy supervision with grand multiparity"
+   },
+   "patient": {
+    "age": 33,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_australian_f_thirties_220473.wav"
+   },
+   "icd10": "Z35.4"
+  },
+  "bc37e40de28adb7b": {
+   "label": "EQ",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Excessive weight gain in pregnancy"
+   },
+   "patient": {
+    "age": 21,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_british_f_twenties_59348.wav"
+   },
+   "icd10": "O26.0"
+  },
+  "617910294300fb34": {
+   "label": "EQ",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Obesity complicating pregnancy"
+   },
+   "patient": {
+    "age": 21,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_southasian_f_twenties_19650225.wav"
+   },
+   "icd10": "O99.2"
+  },
+  "2930ec18e482c388": {
+   "label": "EQ",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Pregnancy care following infertility treatment"
+   },
+   "patient": {
+    "age": 42,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_african_f_fourties_22178626.wav"
+   },
+   "icd10": "Z35.0"
+  },
+  "7b3caa08672a9014": {
+   "label": "AQ",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Routine supervision of first pregnancy, third trimester"
+   },
+   "patient": {
+    "age": 22,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_southasian_f_twenties_20393753.wav"
+   },
+   "icd10": "Z34.0"
+  },
+  "da162c587f8aa63c": {
+   "label": "AQ",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Oligohydramnios"
+   },
+   "patient": {
+    "age": 36,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_african_f_thirties_42817051.wav"
+   },
+   "icd10": "O41.0"
+  },
+  "a050fb1bf9951385": {
+   "label": "AQ",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Complete spontaneous miscarriage without complication"
+   },
+   "patient": {
+    "age": 27,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_american_f_twenties_17309549.wav"
+   },
+   "icd10": "O03.9"
+  },
+  "c99d41f053d9333e": {
+   "label": "AQ",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Pregnancy supervision with insufficient antenatal care"
+   },
+   "patient": {
+    "age": 35,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_australian_f_thirties_124217.wav"
+   },
+   "icd10": "Z35.3"
+  },
+  "e3467c63caa343e1": {
+   "label": "AQ",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Pre-existing hypertension with superimposed pre-eclampsia"
+   },
+   "patient": {
+    "age": 27,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_british_f_twenties_511851.wav"
+   },
+   "icd10": "O11"
+  },
+  "39411c554808148f": {
+   "label": "AR",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Hypothyroidism complicating pregnancy"
+   },
+   "patient": {
+    "age": 38,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_african_f_thirties_28457143.wav"
+   },
+   "icd10": "O99.2"
+  },
+  "782056fc59ad224a": {
+   "label": "AR",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Excessive fetal growth"
+   },
+   "patient": {
+    "age": 21,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_american_f_twenties_17931297.wav"
+   },
+   "icd10": "O36.6"
+  },
+  "d0122cc6f2e14505": {
+   "label": "AR",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Pre-existing essential hypertension complicating pregnancy"
+   },
+   "patient": {
+    "age": 29,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_australian_f_twenties_41800258.wav"
+   },
+   "icd10": "O10.0"
+  },
+  "c1ee6d325162e77b": {
+   "label": "AR",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Mild to moderate pre-eclampsia"
+   },
+   "patient": {
+    "age": 23,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_british_f_twenties_654707.wav"
+   },
+   "icd10": "O14.0"
+  },
+  "6d97022fe1018d61": {
+   "label": "AR",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Cardiomyopathy complicating pregnancy"
+   },
+   "patient": {
+    "age": 28,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_southasian_f_twenties_21595187.wav"
+   },
+   "icd10": "O99.4"
+  },
+  "6931707d042d7299": {
+   "label": "SD",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Migraine complicating pregnancy"
+   },
+   "patient": {
+    "age": 22,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_american_f_twenties_22789502.wav"
+   },
+   "icd10": "O99.3"
+  },
+  "8e677d45aadd95bc": {
+   "label": "SD",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Prolonged pregnancy"
+   },
+   "patient": {
+    "age": 39,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_australian_f_thirties_220473.wav"
+   },
+   "icd10": "O48"
+  },
+  "e15bfbd977f06574": {
+   "label": "SD",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Placenta previa"
+   },
+   "patient": {
+    "age": 28,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_british_f_twenties_19692102.wav"
+   },
+   "icd10": "O44"
+  },
+  "12dbb509752ae668": {
+   "label": "SD",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Anxiety disorder complicating pregnancy"
+   },
+   "patient": {
+    "age": 38,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_southasian_f_thirties_24003739.wav"
+   },
+   "icd10": "O99.3"
+  },
+  "2785e6de323b44ed": {
+   "label": "SD",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Pregnancy-related back pain"
+   },
+   "patient": {
+    "age": 33,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_african_f_thirties_18422993.wav"
+   },
+   "icd10": "O26.8"
+  },
+  "bc88d7b15c11b09a": {
+   "label": "W",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Malnutrition in pregnancy"
+   },
+   "patient": {
+    "age": 26,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_australian_f_twenties_15734983.wav"
+   },
+   "icd10": "O25"
+  },
+  "6c5475847ae5db18": {
+   "label": "W",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Unspecified pre-eclampsia"
+   },
+   "patient": {
+    "age": 33,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_british_f_thirties_40598998.wav"
+   },
+   "icd10": "O14.9"
+  },
+  "438c960d12c84f50": {
+   "label": "W",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Elderly multigravida pregnancy supervision, first trimester"
+   },
+   "patient": {
+    "age": 35,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_southasian_f_thirties_21513675.wav"
+   },
+   "icd10": "Z35.8"
+  },
+  "3c0a0d43599144d9": {
+   "label": "W",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Valvular heart disease complicating pregnancy"
+   },
+   "patient": {
+    "age": 40,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_african_f_fourties_22178626.wav"
+   },
+   "icd10": "O99.4"
+  },
+  "2ce1ca60360c2192": {
+   "label": "W",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Bleeding in early pregnancy, unspecified"
+   },
+   "patient": {
+    "age": 24,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_american_f_twenties_19677010.wav"
+   },
+   "icd10": "O20.9"
+  },
+  "f4c7b06097e17f79": {
+   "label": "ASK",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Pre-existing hypertensive renal disease complicating pregnancy"
+   },
+   "patient": {
+    "age": 38,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_british_f_thirties_26897331.wav"
+   },
+   "icd10": "O10.2"
+  },
+  "c5167ecb59b5a8dc": {
+   "label": "ASK",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Pregnancy supervision with history of ectopic or molar pregnancy"
+   },
+   "patient": {
+    "age": 29,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_southasian_f_twenties_20393753.wav"
+   },
+   "icd10": "Z35.1"
+  },
+  "16dce33d8e799654": {
+   "label": "ASK",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Mild hyperemesis gravidarum"
+   },
+   "patient": {
+    "age": 24,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_african_f_twenties_42751082.wav"
+   },
+   "icd10": "O21.0"
+  },
+  "c513dad0a5766518": {
+   "label": "ASK",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Face or brow presentation"
+   },
+   "patient": {
+    "age": 25,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_american_f_twenties_17931297.wav"
+   },
+   "icd10": "O32.3"
+  },
+  "1228117c4952c4bf": {
+   "label": "ASK",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Triplet pregnancy"
+   },
+   "patient": {
+    "age": 42,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_australian_f_fourties_22068213.wav"
+   },
+   "icd10": "O30.1"
+  },
+  "d8c25d6b39e0863b": {
+   "label": "ADVISED",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Other hemorrhage in early pregnancy"
+   },
+   "patient": {
+    "age": 27,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_southasian_f_twenties_18709080.wav"
+   },
+   "icd10": "O20.8"
+  },
+  "93607b602faaea3f": {
+   "label": "ADVISED",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Epilepsy complicating pregnancy"
+   },
+   "patient": {
+    "age": 39,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_african_f_thirties_37533529.wav"
+   },
+   "icd10": "O99.3"
+  },
+  "c7155e2e0b6d8261": {
+   "label": "ADVISED",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Depression complicating pregnancy"
+   },
+   "patient": {
+    "age": 26,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_american_f_twenties_23676704.wav"
+   },
+   "icd10": "O99.3"
+  },
+  "340f4087ae1bcc64": {
+   "label": "ADVISED",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Routine supervision of subsequent normal pregnancy, first trimester"
+   },
+   "patient": {
+    "age": 32,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_australian_f_thirties_17571168.wav"
+   },
+   "icd10": "Z34.8"
+  },
+  "07a063a3bd910ccf": {
+   "label": "ADVISED",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Genital tract infection in pregnancy"
+   },
+   "patient": {
+    "age": 41,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_british_f_fourties_491391.wav"
+   },
+   "icd10": "O23.5"
+  },
+  "426680e5eea6f791": {
+   "label": "ASSESS",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Routine supervision of first pregnancy, first trimester"
+   },
+   "patient": {
+    "age": 33,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_african_f_thirties_36993508.wav"
+   },
+   "icd10": "Z34.0"
+  },
+  "0a97f76152976837": {
+   "label": "ASSESS",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Velamentous insertion of the umbilical cord"
+   },
+   "patient": {
+    "age": 31,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_american_f_thirties_19300841.wav"
+   },
+   "icd10": "O43.1"
+  },
+  "2c03cff762e76fc0": {
+   "label": "ASSESS",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Gestational diabetes mellitus"
+   },
+   "patient": {
+    "age": 30,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_australian_f_thirties_18722518.wav"
+   },
+   "icd10": "O24.4"
+  },
+  "5e0a19eb25d4a15a": {
+   "label": "ASSESS",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Congenital heart disease complicating pregnancy"
+   },
+   "patient": {
+    "age": 21,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_british_f_twenties_17936006.wav"
+   },
+   "icd10": "O99.8"
+  },
+  "11b7f0a90c8bd39a": {
+   "label": "ASSESS",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Abnormal ultrasound finding on antenatal screening"
+   },
+   "patient": {
+    "age": 26,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_southasian_f_twenties_546072.wav"
+   },
+   "icd10": "O28.3"
+  },
+  "4979bea3301a1880": {
+   "label": "ASSIST",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Pregnancy supervision due to social problems"
+   },
+   "patient": {
+    "age": 40,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_american_f_fourties_18657280.wav"
+   },
+   "icd10": "Z35.7"
+  },
+  "66b7b8656704f96b": {
+   "label": "ASSIST",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Other abnormal antenatal screening finding"
+   },
+   "patient": {
+    "age": 35,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_australian_f_thirties_489158.wav"
+   },
+   "icd10": "O28.8"
+  },
+  "7f8655703112d2f6": {
+   "label": "ASSIST",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Vulvar varices in pregnancy"
+   },
+   "patient": {
+    "age": 31,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_british_f_thirties_23786261.wav"
+   },
+   "icd10": "O22.1"
+  },
+  "7f652842d23cd89a": {
+   "label": "ASSIST",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Anembryonic pregnancy"
+   },
+   "patient": {
+    "age": 30,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_southasian_f_thirties_19677467.wav"
+   },
+   "icd10": "O02.0"
+  },
+  "4a749c4b73cf6492": {
+   "label": "ASSIST",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Supraventricular tachycardia complicating pregnancy"
+   },
+   "patient": {
+    "age": 39,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_african_f_thirties_42817051.wav"
+   },
+   "icd10": "O99.4"
+  },
+  "0c90c8a3cae35f35": {
+   "label": "ARRANGE",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Threatened miscarriage"
+   },
+   "patient": {
+    "age": 28,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_australian_f_twenties_24567354.wav"
+   },
+   "icd10": "O20.0"
+  },
+  "5e245eaac0f13487": {
+   "label": "ARRANGE",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Obstructive sleep apnea complicating pregnancy"
+   },
+   "patient": {
+    "age": 36,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_british_f_thirties_23786261.wav"
+   },
+   "icd10": "O99.3"
+  },
+  "2a6c877c6979b473": {
+   "label": "ARRANGE",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Maternal care for previous cesarean scar"
+   },
+   "patient": {
+    "age": 23,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_southasian_f_twenties_20393753.wav"
+   },
+   "icd10": "O34.2"
+  },
+  "1faa34089dc12d89": {
+   "label": "ARRANGE",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "first antenatal visit",
+    "condition": "Pre-existing hypertensive heart disease complicating pregnancy"
+   },
+   "patient": {
+    "age": 27,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_african_f_twenties_19524811.wav"
+   },
+   "icd10": "O10.1"
+  },
+  "d98b62c0ad254ae2": {
+   "label": "ARRANGE",
+   "department": "obstetrics",
+   "case": {
+    "visit_stage": "routine antenatal follow-up",
+    "condition": "Gestational edema with proteinuria"
+   },
+   "patient": {
+    "age": 38,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_american_f_thirties_17716310.wav"
+   },
+   "icd10": "O12.2"
+  },
+  "5de5e1d76360e2a7": {
+   "label": "respect",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Sacroiliitis"
+   },
+   "patient": {
+    "age": 31,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_american_m_thirties_35588350.wav"
+   },
+   "icd10": "M46.1"
+  },
+  "42f7a471e9728cf7": {
+   "label": "respect",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Rotator cuff tendon injury"
+   },
+   "patient": {
+    "age": 48,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_australian_f_fourties_532574.wav"
+   },
+   "icd10": "S46.0"
+  },
+  "6cd0ffddbe01e706": {
+   "label": "respect",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Lateral malleolus fracture"
+   },
+   "patient": {
+    "age": 32,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_british_m_thirties_28683713.wav"
+   },
+   "icd10": "S82.6"
+  },
+  "181d67720541aa98": {
+   "label": "respect",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Primary osteoarthritis of both first carpometacarpal joints"
+   },
+   "patient": {
+    "age": 58,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_southasian_f_fifties_23629071.wav"
+   },
+   "icd10": "M18.0"
+  },
+  "d1417640f7ca92e4": {
+   "label": "respect",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Shoulder joint sprain"
+   },
+   "patient": {
+    "age": 22,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_african_m_twenties_18844765.wav"
+   },
+   "icd10": "S43.4"
+  },
+  "c49a977112ae1521": {
+   "label": "flow",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Primary osteoarthritis of the right hand"
+   },
+   "patient": {
+    "age": 30,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_australian_f_thirties_489158.wav"
+   },
+   "icd10": "M19.0"
+  },
+  "dbf4ae8ec39cd228": {
+   "label": "flow",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Patellar tendinitis"
+   },
+   "patient": {
+    "age": 67,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_british_m_sixties_46281.wav"
+   },
+   "icd10": "M76.5"
+  },
+  "8abdaaa8400244c3": {
+   "label": "flow",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Long head of biceps tendon injury"
+   },
+   "patient": {
+    "age": 39,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_southasian_f_thirties_680871.wav"
+   },
+   "icd10": "S46.1"
+  },
+  "8fd1bbf8c81ea04d": {
+   "label": "flow",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Cervical spinal stenosis"
+   },
+   "patient": {
+    "age": 39,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_african_m_thirties_23989306.wav"
+   },
+   "icd10": "M48.0"
+  },
+  "e04903523a1ac032": {
+   "label": "flow",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Stress fracture"
+   },
+   "patient": {
+    "age": 73,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_american_f_seventies_19756059.wav"
+   },
+   "icd10": "M84.3"
+  },
+  "e863ec8a63b2114a": {
+   "label": "concerns",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Hip flexor strain"
+   },
+   "patient": {
+    "age": 33,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_british_m_thirties_23383244.wav"
+   },
+   "icd10": "S76.0"
+  },
+  "5e724d72d84aef35": {
+   "label": "concerns",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Rib fracture"
+   },
+   "patient": {
+    "age": 51,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_southasian_f_fifties_23629071.wav"
+   },
+   "icd10": "S22.3"
+  },
+  "660a9832b92399ef": {
+   "label": "concerns",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Calf muscle strain"
+   },
+   "patient": {
+    "age": 44,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_african_m_fourties_575319.wav"
+   },
+   "icd10": "S86.1"
+  },
+  "29e479dbca69c70f": {
+   "label": "concerns",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Unspecified back pain (dorsalgia)"
+   },
+   "patient": {
+    "age": 56,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_american_f_fifties_13369497.wav"
+   },
+   "icd10": "M54.9"
+  },
+  "f86808fb645cda18": {
+   "label": "concerns",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Loose body in the right knee"
+   },
+   "patient": {
+    "age": 27,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_australian_m_twenties_18238.wav"
+   },
+   "icd10": "M23.4"
+  },
+  "0e32f48f16d25874": {
+   "label": "attentive",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Elbow sprain"
+   },
+   "patient": {
+    "age": 26,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_southasian_f_twenties_18709080.wav"
+   },
+   "icd10": "S53.4"
+  },
+  "9bd28a89d2b2e3d5": {
+   "label": "attentive",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Shoulder impingement syndrome"
+   },
+   "patient": {
+    "age": 35,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_african_m_thirties_45527.wav"
+   },
+   "icd10": "M75.4"
+  },
+  "f58e3d6737bd6b64": {
+   "label": "attentive",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Scoliosis, unspecified"
+   },
+   "patient": {
+    "age": 61,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_american_f_sixties_26962464.wav"
+   },
+   "icd10": "M41.9"
+  },
+  "4c5b7d54d4d6bb3b": {
+   "label": "attentive",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Anterior cruciate ligament tear"
+   },
+   "patient": {
+    "age": 54,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_australian_m_fifties_17251749.wav"
+   },
+   "icd10": "S83.5"
+  },
+  "ebb6f0326e646a52": {
+   "label": "attentive",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Quadriceps strain"
+   },
+   "patient": {
+    "age": 60,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_british_f_sixties_669105.wav"
+   },
+   "icd10": "S76.1"
+  },
+  "9b62f8f9dfc869c9": {
+   "label": "warmth",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Finger extensor tendon injury"
+   },
+   "patient": {
+    "age": 60,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_african_m_sixties_535360.wav"
+   },
+   "icd10": "S66.3"
+  },
+  "0b42eafe0b8c767c": {
+   "label": "warmth",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Wrist ganglion cyst"
+   },
+   "patient": {
+    "age": 23,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_american_f_twenties_23676704.wav"
+   },
+   "icd10": "M67.4"
+  },
+  "0703f5f71f6260a2": {
+   "label": "warmth",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Distal femur fracture"
+   },
+   "patient": {
+    "age": 59,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_australian_m_fifties_18009258.wav"
+   },
+   "icd10": "S72.4"
+  },
+  "1fdf5ba437883f97": {
+   "label": "warmth",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Medial collateral ligament sprain of knee"
+   },
+   "patient": {
+    "age": 77,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_british_f_seventies_19641374.wav"
+   },
+   "icd10": "S83.4"
+  },
+  "6ad2081649d5630e": {
+   "label": "warmth",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Right shoulder pain"
+   },
+   "patient": {
+    "age": 49,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_southasian_m_fourties_17708138.wav"
+   },
+   "icd10": "M25.5"
+  },
+  "0b6f7a540bdeb578": {
+   "label": "EO",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Adductor muscle strain"
+   },
+   "patient": {
+    "age": 29,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_american_f_twenties_39620462.wav"
+   },
+   "icd10": "S76.2"
+  },
+  "77578ab37dae1198": {
+   "label": "EO",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Other finger phalanx fracture"
+   },
+   "patient": {
+    "age": 23,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_australian_m_twenties_18238.wav"
+   },
+   "icd10": "S62.6"
+  },
+  "b6ce17f4ff0194f3": {
+   "label": "EO",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Adhesive capsulitis"
+   },
+   "patient": {
+    "age": 79,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_british_f_seventies_694200.wav"
+   },
+   "icd10": "M75.0"
+  },
+  "efdabc7b468cc172": {
+   "label": "EO",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Unspecified internal derangement of the right knee"
+   },
+   "patient": {
+    "age": 60,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_southasian_m_sixties_19621726.wav"
+   },
+   "icd10": "M23.9"
+  },
+  "d26923db7d9329e3": {
+   "label": "EO",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Calcaneal fracture"
+   },
+   "patient": {
+    "age": 55,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_african_f_fifties_10047.wav"
+   },
+   "icd10": "S92.0"
+  },
+  "390c5914ef96dec2": {
+   "label": "ER",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Lumbar disc degeneration"
+   },
+   "patient": {
+    "age": 22,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_australian_m_twenties_18238.wav"
+   },
+   "icd10": "M51.3"
+  },
+  "b5b251bf6a3db11b": {
+   "label": "ER",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Pubic ramus fracture"
+   },
+   "patient": {
+    "age": 51,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_british_f_fifties_27371619.wav"
+   },
+   "icd10": "S32.5"
+  },
+  "26223d064b238450": {
+   "label": "ER",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Achilles tendon rupture"
+   },
+   "patient": {
+    "age": 66,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_southasian_m_sixties_588471.wav"
+   },
+   "icd10": "S86.0"
+  },
+  "e0e91292621ac984": {
+   "label": "ER",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Thumb phalanx fracture"
+   },
+   "patient": {
+    "age": 53,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_african_f_fifties_54402.wav"
+   },
+   "icd10": "S62.5"
+  },
+  "81749c3f4685053d": {
+   "label": "ER",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Pes anserine bursitis"
+   },
+   "patient": {
+    "age": 42,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_american_m_fourties_174226.wav"
+   },
+   "icd10": "M70.5"
+  },
+  "59161a742946d60c": {
+   "label": "S",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Iliotibial band syndrome"
+   },
+   "patient": {
+    "age": 71,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_british_f_seventies_137717.wav"
+   },
+   "icd10": "M76.3"
+  },
+  "2a2a6377cb2cb61f": {
+   "label": "S",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Cervical muscle strain"
+   },
+   "patient": {
+    "age": 59,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_southasian_m_fifties_19758190.wav"
+   },
+   "icd10": "S16"
+  },
+  "1edc0de20cf3e955": {
+   "label": "S",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Lumbar disc herniation"
+   },
+   "patient": {
+    "age": 21,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_african_f_twenties_17256473.wav"
+   },
+   "icd10": "M51.2"
+  },
+  "ee5fe487acc9db63": {
+   "label": "S",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Whiplash-associated neck sprain"
+   },
+   "patient": {
+    "age": 76,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_american_m_seventies_25972157.wav"
+   },
+   "icd10": "S13.4"
+  },
+  "eb76fa7680733264": {
+   "label": "S",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Wrist tenosynovitis"
+   },
+   "patient": {
+    "age": 68,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_australian_f_sixties_18856867.wav"
+   },
+   "icd10": "M65.9"
+  },
+  "c8b1fd65a6911686": {
+   "label": "ES",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Lumbar spine sprain"
+   },
+   "patient": {
+    "age": 41,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_southasian_m_fourties_26944076.wav"
+   },
+   "icd10": "S33.5"
+  },
+  "3812d4efb3148ce2": {
+   "label": "ES",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Lumbar radiculopathy"
+   },
+   "patient": {
+    "age": 54,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_african_f_fifties_37564482.wav"
+   },
+   "icd10": "M54.1"
+  },
+  "3d5e98f22e0db4c9": {
+   "label": "ES",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Tibial plateau fracture"
+   },
+   "patient": {
+    "age": 75,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_american_m_seventies_20090186.wav"
+   },
+   "icd10": "S82.1"
+  },
+  "5aef6edfe601366e": {
+   "label": "ES",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Elbow dislocation"
+   },
+   "patient": {
+    "age": 42,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_australian_f_fourties_28761850.wav"
+   },
+   "icd10": "S53.1"
+  },
+  "2ba5eb927cf7ca95": {
+   "label": "ES",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Neck pain (cervicalgia)"
+   },
+   "patient": {
+    "age": 34,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_british_m_thirties_17922002.wav"
+   },
+   "icd10": "M54.2"
+  },
+  "d2fc3fdee1e2ed3a": {
+   "label": "OE",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Osteonecrosis due to drugs"
+   },
+   "patient": {
+    "age": 36,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_african_f_thirties_28457143.wav"
+   },
+   "icd10": "M87.1"
+  },
+  "3cdf7d8eb27ed141": {
+   "label": "OE",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Sacroiliac joint disorder"
+   },
+   "patient": {
+    "age": 72,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_american_m_seventies_38763658.wav"
+   },
+   "icd10": "M53.3"
+  },
+  "bdcf8092f68c467f": {
+   "label": "OE",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Lumbar spondylosis"
+   },
+   "patient": {
+    "age": 32,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_australian_f_thirties_17571168.wav"
+   },
+   "icd10": "M47.8"
+  },
+  "6a93e594b45a2567": {
+   "label": "OE",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Distal radius fracture"
+   },
+   "patient": {
+    "age": 24,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_british_m_twenties_23789948.wav"
+   },
+   "icd10": "S52.5"
+  },
+  "191ac59c0754fa46": {
+   "label": "OE",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Proximal humerus fracture"
+   },
+   "patient": {
+    "age": 29,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_southasian_f_twenties_546072.wav"
+   },
+   "icd10": "S42.2"
+  },
+  "2bf46e007d92a684": {
+   "label": "RS",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Lateral epicondylitis"
+   },
+   "patient": {
+    "age": 55,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_american_m_fifties_17976622.wav"
+   },
+   "icd10": "M77.1"
+  },
+  "7ae40d4db3604da5": {
+   "label": "RS",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Toe phalanx fracture"
+   },
+   "patient": {
+    "age": 31,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_australian_f_thirties_258153.wav"
+   },
+   "icd10": "S92.5"
+  },
+  "1b5b6a2c7e0055ff": {
+   "label": "RS",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Clavicle fracture"
+   },
+   "patient": {
+    "age": 63,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_british_m_sixties_19614574.wav"
+   },
+   "icd10": "S42.0"
+  },
+  "56525e1900d6f4d0": {
+   "label": "RS",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Rotator cuff tendinopathy"
+   },
+   "patient": {
+    "age": 59,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_southasian_f_fifties_17562715.wav"
+   },
+   "icd10": "M75.1"
+  },
+  "ed02a6b591b31014": {
+   "label": "RS",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Medial epicondylitis"
+   },
+   "patient": {
+    "age": 54,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_african_m_fifties_128311.wav"
+   },
+   "icd10": "M77.0"
+  },
+  "7d9c2665e43e1815": {
+   "label": "EQ",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Scaphoid fracture"
+   },
+   "patient": {
+    "age": 57,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_australian_f_fifties_683081.wav"
+   },
+   "icd10": "S62.0"
+  },
+  "04889978887b1850": {
+   "label": "EQ",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Distal humerus fracture"
+   },
+   "patient": {
+    "age": 37,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_british_m_thirties_19877474.wav"
+   },
+   "icd10": "S42.4"
+  },
+  "0bf108d3aa3362f1": {
+   "label": "EQ",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Intertrochanteric femur fracture"
+   },
+   "patient": {
+    "age": 43,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_southasian_f_fourties_30570602.wav"
+   },
+   "icd10": "S72.1"
+  },
+  "0fb182f31cfc0b6b": {
+   "label": "EQ",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Primary osteoarthritis of the right shoulder"
+   },
+   "patient": {
+    "age": 37,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_african_m_thirties_20531983.wav"
+   },
+   "icd10": "M19.0"
+  },
+  "c9eee01ec960241b": {
+   "label": "EQ",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Contracture of the right knee"
+   },
+   "patient": {
+    "age": 65,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_american_f_sixties_653426.wav"
+   },
+   "icd10": "M24.5"
+  },
+  "98774d9ed5020a23": {
+   "label": "AQ",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Radial head fracture"
+   },
+   "patient": {
+    "age": 63,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_african_m_sixties_18482426.wav"
+   },
+   "icd10": "S52.1"
+  },
+  "ad8b2e22a4f2e660": {
+   "label": "AQ",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Myofascial pain"
+   },
+   "patient": {
+    "age": 62,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_american_f_sixties_19941763.wav"
+   },
+   "icd10": "M79.1"
+  },
+  "bb5687db6a3aaf9c": {
+   "label": "AQ",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Patellar dislocation"
+   },
+   "patient": {
+    "age": 20,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_australian_m_twenties_27775550.wav"
+   },
+   "icd10": "S83.0"
+  },
+  "b7f4daacca94ca75": {
+   "label": "AQ",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "De Quervain tenosynovitis"
+   },
+   "patient": {
+    "age": 49,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_british_f_fourties_22094978.wav"
+   },
+   "icd10": "M65.4"
+  },
+  "1db9f068977f3b96": {
+   "label": "AQ",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Femoral neck fracture"
+   },
+   "patient": {
+    "age": 61,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_southasian_m_sixties_23774654.wav"
+   },
+   "icd10": "S72.0"
+  },
+  "35a8c6bb07f402dc": {
+   "label": "AR",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Acquired hallux valgus of the right foot"
+   },
+   "patient": {
+    "age": 73,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_american_f_seventies_19579294.wav"
+   },
+   "icd10": "M20.1"
+  },
+  "d448199258f3ce77": {
+   "label": "AR",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Triquetral fracture"
+   },
+   "patient": {
+    "age": 26,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_australian_m_twenties_27775550.wav"
+   },
+   "icd10": "S62.1"
+  },
+  "50f5ad5dc0d27daf": {
+   "label": "AR",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Lateral ankle ligament sprain"
+   },
+   "patient": {
+    "age": 72,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_british_f_seventies_92748.wav"
+   },
+   "icd10": "S93.4"
+  },
+  "5493179143f1ba14": {
+   "label": "AR",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Patellofemoral pain disorder"
+   },
+   "patient": {
+    "age": 50,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_southasian_m_fifties_27406749.wav"
+   },
+   "icd10": "M22.2"
+  },
+  "1b0e488f18e05e38": {
+   "label": "AR",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Prepatellar bursitis"
+   },
+   "patient": {
+    "age": 53,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_african_f_fifties_54402.wav"
+   },
+   "icd10": "M70.4"
+  },
+  "e6f86ae9c0d317c4": {
+   "label": "SD",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Humeral shaft fracture"
+   },
+   "patient": {
+    "age": 33,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_australian_m_thirties_19691442.wav"
+   },
+   "icd10": "S42.3"
+  },
+  "315d069a999f3dd2": {
+   "label": "SD",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Low back pain with sciatica"
+   },
+   "patient": {
+    "age": 28,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_british_f_twenties_23836824.wav"
+   },
+   "icd10": "M54.4"
+  },
+  "20d7690c74995831": {
+   "label": "SD",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Thoracic vertebral compression fracture"
+   },
+   "patient": {
+    "age": 47,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_southasian_m_fourties_118596.wav"
+   },
+   "icd10": "S22.0"
+  },
+  "bae4f967dd1068ce": {
+   "label": "SD",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Finger flexor tendon injury"
+   },
+   "patient": {
+    "age": 56,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_african_f_fifties_596845.wav"
+   },
+   "icd10": "S66.1"
+  },
+  "c6a699f30bd69332": {
+   "label": "SD",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Lower back muscle strain"
+   },
+   "patient": {
+    "age": 52,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_american_m_fifties_34980360.wav"
+   },
+   "icd10": "S39.0"
+  },
+  "d57b03f4e6082374": {
+   "label": "W",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Pathological fracture not elsewhere classified"
+   },
+   "patient": {
+    "age": 25,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_british_f_twenties_696503.wav"
+   },
+   "icd10": "M84.4"
+  },
+  "2d0d6ea2e542f2c3": {
+   "label": "W",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Achilles tendinopathy"
+   },
+   "patient": {
+    "age": 69,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_southasian_m_sixties_17281510.wav"
+   },
+   "icd10": "M76.6"
+  },
+  "d017efa2f8d2f3ab": {
+   "label": "W",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Primary osteoarthritis of the right hip"
+   },
+   "patient": {
+    "age": 45,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_african_f_fourties_22178626.wav"
+   },
+   "icd10": "M16.1"
+  },
+  "e5931ba830032f1b": {
+   "label": "W",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Syndesmotic ankle sprain"
+   },
+   "patient": {
+    "age": 20,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_american_m_twenties_20304708.wav"
+   },
+   "icd10": "S93.4"
+  },
+  "1701e172e5a280e9": {
+   "label": "W",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Metacarpal fracture"
+   },
+   "patient": {
+    "age": 52,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_australian_f_fifties_25256608.wav"
+   },
+   "icd10": "S62.3"
+  },
+  "364b1e5e0ad33b3b": {
+   "label": "ASK",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Effusion of the right knee"
+   },
+   "patient": {
+    "age": 41,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_southasian_m_fourties_18153464.wav"
+   },
+   "icd10": "M25.4"
+  },
+  "dadaca3d5bd88907": {
+   "label": "ASK",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Muscle spasm"
+   },
+   "patient": {
+    "age": 57,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_african_f_fifties_596845.wav"
+   },
+   "icd10": "M62.8"
+  },
+  "dcd58b2e82565746": {
+   "label": "ASK",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Right knee pain"
+   },
+   "patient": {
+    "age": 21,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_american_m_twenties_18511881.wav"
+   },
+   "icd10": "M25.5"
+  },
+  "f731a09995eff70c": {
+   "label": "ASK",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Hammer toe of the right foot"
+   },
+   "patient": {
+    "age": 34,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_australian_f_thirties_258153.wav"
+   },
+   "icd10": "M20.4"
+  },
+  "c7812a155029c784": {
+   "label": "ASK",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Finger sprain"
+   },
+   "patient": {
+    "age": 76,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_british_m_seventies_505787.wav"
+   },
+   "icd10": "S63.6"
+  },
+  "15f54e2886cf3ad3": {
+   "label": "ADVISED",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Erosive osteoarthritis of the hand"
+   },
+   "patient": {
+    "age": 58,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_african_f_fifties_596845.wav"
+   },
+   "icd10": "M15.4"
+  },
+  "cfb95543e2616236": {
+   "label": "ADVISED",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Biceps tendinitis"
+   },
+   "patient": {
+    "age": 35,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_american_m_thirties_18817654.wav"
+   },
+   "icd10": "M75.2"
+  },
+  "554a36eb64d908e3": {
+   "label": "ADVISED",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Cervical disc degeneration"
+   },
+   "patient": {
+    "age": 46,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_australian_f_fourties_17269388.wav"
+   },
+   "icd10": "M50.3"
+  },
+  "f1db6170fce7705f": {
+   "label": "ADVISED",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Thumb metacarpophalangeal ulnar collateral ligament sprain"
+   },
+   "patient": {
+    "age": 77,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_british_m_seventies_17258567.wav"
+   },
+   "icd10": "S63.6"
+  },
+  "58d16d76d6ae1589": {
+   "label": "ADVISED",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Carpal tunnel syndrome"
+   },
+   "patient": {
+    "age": 58,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_southasian_f_fifties_27491.wav"
+   },
+   "icd10": "G56.0"
+  },
+  "64448cd674aa570c": {
+   "label": "ASSESS",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Cervical spondylosis"
+   },
+   "patient": {
+    "age": 78,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_american_m_seventies_43547.wav"
+   },
+   "icd10": "M47.8"
+  },
+  "85c23744565d6be5": {
+   "label": "ASSESS",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Bimalleolar ankle fracture"
+   },
+   "patient": {
+    "age": 56,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_australian_f_fifties_18839947.wav"
+   },
+   "icd10": "S82.8"
+  },
+  "fba7e4e2a89e7720": {
+   "label": "ASSESS",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Hamstring strain"
+   },
+   "patient": {
+    "age": 78,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_british_m_seventies_20034869.wav"
+   },
+   "icd10": "S76.3"
+  },
+  "05932926c435715b": {
+   "label": "ASSESS",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Subtrochanteric femur fracture"
+   },
+   "patient": {
+    "age": 53,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_southasian_f_fifties_17562715.wav"
+   },
+   "icd10": "S72.2"
+  },
+  "e360522933e78ddb": {
+   "label": "ASSESS",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Primary osteoarthritis of the right ankle and foot"
+   },
+   "patient": {
+    "age": 25,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_african_m_twenties_642766.wav"
+   },
+   "icd10": "M19.0"
+  },
+  "84c054d4a921099a": {
+   "label": "ASSIST",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Calcaneal spur"
+   },
+   "patient": {
+    "age": 40,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_australian_f_fourties_125718.wav"
+   },
+   "icd10": "M77.3"
+  },
+  "a642bf27d36526d1": {
+   "label": "ASSIST",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Lumbosacral radiculopathy"
+   },
+   "patient": {
+    "age": 46,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_british_m_fourties_23350567.wav"
+   },
+   "icd10": "M54.1"
+  },
+  "12f35050d1e73e74": {
+   "label": "ASSIST",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Lumbar spondylolisthesis"
+   },
+   "patient": {
+    "age": 30,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_southasian_f_thirties_680871.wav"
+   },
+   "icd10": "M43.1"
+  },
+  "627ba257ea123ba8": {
+   "label": "ASSIST",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Muscle contracture"
+   },
+   "patient": {
+    "age": 44,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_african_m_fourties_19490514.wav"
+   },
+   "icd10": "M62.4"
+  },
+  "03c90bec8a2f500a": {
+   "label": "ASSIST",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Lumbar spinal stenosis"
+   },
+   "patient": {
+    "age": 55,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_american_f_fifties_26945600.wav"
+   },
+   "icd10": "M48.0"
+  },
+  "2090ae2222b34611": {
+   "label": "ARRANGE",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Chondromalacia patellae"
+   },
+   "patient": {
+    "age": 36,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_british_m_thirties_138400.wav"
+   },
+   "icd10": "M22.4"
+  },
+  "d5a61a94b637569d": {
+   "label": "ARRANGE",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Lumbar disc disorder with radiculopathy"
+   },
+   "patient": {
+    "age": 57,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_southasian_f_fifties_23629071.wav"
+   },
+   "icd10": "M51.1"
+  },
+  "858f754a0cbb1893": {
+   "label": "ARRANGE",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Age-related osteoporosis without current pathological fracture"
+   },
+   "patient": {
+    "age": 62,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_african_m_sixties_1100186.wav"
+   },
+   "icd10": "M81.8"
+  },
+  "9dfdc579cf7ea3d3": {
+   "label": "ARRANGE",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Osteopenia"
+   },
+   "patient": {
+    "age": 40,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_american_f_fourties_18236758.wav"
+   },
+   "icd10": "M85.8"
+  },
+  "24c3c0d0ef0308fe": {
+   "label": "ARRANGE",
+   "department": "orthopedics",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Shoulder bursitis"
+   },
+   "patient": {
+    "age": 24,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_australian_m_twenties_27775550.wav"
+   },
+   "icd10": "M75.5"
+  },
+  "160a194b0773c225": {
+   "label": "respect",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Monoarthritis, not elsewhere classified"
+   },
+   "patient": {
+    "age": 58,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_australian_f_fifties_19607655.wav"
+   },
+   "icd10": "M13.1"
+  },
+  "0878c92293cca56e": {
+   "label": "respect",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Multiple joint pain"
+   },
+   "patient": {
+    "age": 30,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_british_m_thirties_28522166.wav"
+   },
+   "icd10": "M25.5"
+  },
+  "3ec3bafb7b5c8f77": {
+   "label": "respect",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Other postinfective arthropathy in a disease classified elsewhere"
+   },
+   "patient": {
+    "age": 23,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_southasian_f_twenties_24158012.wav"
+   },
+   "icd10": "M03.2"
+  },
+  "cfb58efbb3c7dd07": {
+   "label": "respect",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Mixed connective tissue disease"
+   },
+   "patient": {
+    "age": 33,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_african_m_thirties_19540114.wav"
+   },
+   "icd10": "M35.1"
+  },
+  "b3a97248692b7282": {
+   "label": "respect",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Other forms of systemic lupus erythematosus"
+   },
+   "patient": {
+    "age": 59,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_american_f_fifties_16471.wav"
+   },
+   "icd10": "M32.8"
+  },
+  "e04e67e1ea178499": {
+   "label": "flow",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Dermatomyositis or polymyositis, unspecified"
+   },
+   "patient": {
+    "age": 77,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_british_m_seventies_18126326.wav"
+   },
+   "icd10": "M33.9"
+  },
+  "5086e9f8b74838ad": {
+   "label": "flow",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Other giant cell arteritis"
+   },
+   "patient": {
+    "age": 48,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_southasian_f_fourties_26626454.wav"
+   },
+   "icd10": "M31.6"
+  },
+  "e1e122a9b20afb57": {
+   "label": "flow",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Other specified systemic involvement of connective tissue"
+   },
+   "patient": {
+    "age": 46,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_african_m_fourties_17637592.wav"
+   },
+   "icd10": "M35.8"
+  },
+  "81dab4baa0a719ee": {
+   "label": "flow",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Other necrotizing vasculopathies"
+   },
+   "patient": {
+    "age": 28,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_american_f_twenties_39620462.wav"
+   },
+   "icd10": "M31.8"
+  },
+  "e9a58b313bbc2aa0": {
+   "label": "flow",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Spinal enthesopathy"
+   },
+   "patient": {
+    "age": 45,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_australian_m_fourties_696408.wav"
+   },
+   "icd10": "M46.0"
+  },
+  "a79d831737a14ccb": {
+   "label": "concerns",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Lumbar spondylosis with myelopathy"
+   },
+   "patient": {
+    "age": 43,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_southasian_f_fourties_27313426.wav"
+   },
+   "icd10": "M47.1"
+  },
+  "4a16e5134c498451": {
+   "label": "concerns",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Inflammatory polyarthropathy"
+   },
+   "patient": {
+    "age": 75,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_african_m_seventies_26971571.wav"
+   },
+   "icd10": "M06.4"
+  },
+  "5f3dca0ff1310b5b": {
+   "label": "concerns",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Reactive arthritis, unspecified"
+   },
+   "patient": {
+    "age": 61,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_american_f_sixties_610468.wav"
+   },
+   "icd10": "M02.9"
+  },
+  "250930587ca3539c": {
+   "label": "concerns",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Takayasu arteritis"
+   },
+   "patient": {
+    "age": 38,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_australian_m_thirties_17644656.wav"
+   },
+   "icd10": "M31.4"
+  },
+  "fe17c2614808abde": {
+   "label": "concerns",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Cervical spondylosis with radiculopathy"
+   },
+   "patient": {
+    "age": 49,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_british_f_fourties_20011844.wav"
+   },
+   "icd10": "M47.2"
+  },
+  "ba03fe1d3843c6df": {
+   "label": "attentive",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Panniculitis, not elsewhere classified"
+   },
+   "patient": {
+    "age": 35,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_african_m_thirties_23536857.wav"
+   },
+   "icd10": "M79.3"
+  },
+  "c9ed674d0cf8f35a": {
+   "label": "attentive",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Vasculitis, unspecified"
+   },
+   "patient": {
+    "age": 55,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_american_f_fifties_38282302.wav"
+   },
+   "icd10": "M31.9"
+  },
+  "f7431cffe8be626e": {
+   "label": "attentive",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Hip joint pain"
+   },
+   "patient": {
+    "age": 27,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_australian_m_twenties_18238.wav"
+   },
+   "icd10": "M25.5"
+  },
+  "f888ba1a583fbd79": {
+   "label": "attentive",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Sjögren syndrome"
+   },
+   "patient": {
+    "age": 74,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_british_f_seventies_19705895.wav"
+   },
+   "icd10": "M35.0"
+  },
+  "bdb2cf85eb59904d": {
+   "label": "attentive",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Palindromic rheumatism"
+   },
+   "patient": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_southasian_m_fourties_17763815.wav"
+   },
+   "icd10": "M12.3"
+  },
+  "7748d479e559bc98": {
+   "label": "warmth",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Non-radiographic axial spondyloarthritis"
+   },
+   "patient": {
+    "age": 73,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_american_f_seventies_589570.wav"
+   },
+   "icd10": "M46.8"
+  },
+  "b24f0cc7efba4245": {
+   "label": "warmth",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Hydroxyapatite deposition disease"
+   },
+   "patient": {
+    "age": 28,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_australian_m_twenties_18238.wav"
+   },
+   "icd10": "M11.0"
+  },
+  "79362d2f90f8c5c7": {
+   "label": "warmth",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Abnormal globulin finding"
+   },
+   "patient": {
+    "age": 60,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_british_f_sixties_20994945.wav"
+   },
+   "icd10": "R77.1"
+  },
+  "bc944d1c88ede85c": {
+   "label": "warmth",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Polyarteritis nodosa"
+   },
+   "patient": {
+    "age": 68,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_southasian_m_sixties_36453603.wav"
+   },
+   "icd10": "M30.0"
+  },
+  "fa7c4c1c4170b686": {
+   "label": "warmth",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Hemarthrosis"
+   },
+   "patient": {
+    "age": 57,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_african_f_fifties_10047.wav"
+   },
+   "icd10": "M25.0"
+  },
+  "88765fc508c74528": {
+   "label": "EO",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Idiopathic gout"
+   },
+   "patient": {
+    "age": 78,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_australian_m_seventies_20233748.wav"
+   },
+   "icd10": "M10.0"
+  },
+  "9369be4b28d48ba2": {
+   "label": "EO",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Positive ANA test"
+   },
+   "patient": {
+    "age": 43,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_british_f_fourties_19001007.wav"
+   },
+   "icd10": "R76.0"
+  },
+  "8cb8ad3c86995c0d": {
+   "label": "EO",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Myositis associated with neoplastic disease"
+   },
+   "patient": {
+    "age": 55,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_southasian_m_fifties_19537947.wav"
+   },
+   "icd10": "M36.0"
+  },
+  "4d4a169bf20424e3": {
+   "label": "EO",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Gout due to renal impairment"
+   },
+   "patient": {
+    "age": 57,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_african_f_fifties_54402.wav"
+   },
+   "icd10": "M10.3"
+  },
+  "b14b661fc7481d77": {
+   "label": "EO",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Seronegative rheumatoid arthritis"
+   },
+   "patient": {
+    "age": 49,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_american_m_fourties_610194.wav"
+   },
+   "icd10": "M06.0"
+  },
+  "367d44b3206929d7": {
+   "label": "ER",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Joint hypermobility syndrome"
+   },
+   "patient": {
+    "age": 63,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_british_f_sixties_27148676.wav"
+   },
+   "icd10": "M35.7"
+  },
+  "dba503a108083644": {
+   "label": "ER",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Adult-onset Still disease"
+   },
+   "patient": {
+    "age": 34,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_southasian_m_thirties_25260.wav"
+   },
+   "icd10": "M06.1"
+  },
+  "e4228fca3804b8f1": {
+   "label": "ER",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Localized osteoporosis without current pathological fracture"
+   },
+   "patient": {
+    "age": 52,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_african_f_fifties_37564482.wav"
+   },
+   "icd10": "M81.6"
+  },
+  "366d8f8157644940": {
+   "label": "ER",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Recurrent panniculitis"
+   },
+   "patient": {
+    "age": 34,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_american_m_thirties_21620050.wav"
+   },
+   "icd10": "M35.6"
+  },
+  "0a60cfa91adf4e72": {
+   "label": "ER",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Microscopic polyangiitis"
+   },
+   "patient": {
+    "age": 70,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_australian_f_seventies_19698106.wav"
+   },
+   "icd10": "M31.7"
+  },
+  "493638d739d6d79c": {
+   "label": "S",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Sjögren syndrome"
+   },
+   "patient": {
+    "age": 65,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_southasian_m_sixties_537339.wav"
+   },
+   "icd10": "M35.0"
+  },
+  "2ce4d6e8f9e5ffea": {
+   "label": "S",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Drug-induced lupus erythematosus"
+   },
+   "patient": {
+    "age": 56,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_african_f_fifties_10047.wav"
+   },
+   "icd10": "M32.0"
+  },
+  "de5ce0c71e9b5ca8": {
+   "label": "S",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Cervical spondylosis with myelopathy"
+   },
+   "patient": {
+    "age": 55,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_american_m_fifties_23639585.wav"
+   },
+   "icd10": "M47.1"
+  },
+  "d72427cfb8adf44c": {
+   "label": "S",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Other conditions related to polyarteritis nodosa"
+   },
+   "patient": {
+    "age": 43,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_australian_f_fourties_17269388.wav"
+   },
+   "icd10": "M30.8"
+  },
+  "4a499df27aec6cf0": {
+   "label": "S",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Gout, unspecified"
+   },
+   "patient": {
+    "age": 46,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_british_m_fourties_18408221.wav"
+   },
+   "icd10": "M10.9"
+  },
+  "c40548b5ffebcd01": {
+   "label": "ES",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Sjögren syndrome with inflammatory arthritis"
+   },
+   "patient": {
+    "age": 36,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_african_f_thirties_36993508.wav"
+   },
+   "icd10": "M35.0"
+  },
+  "13ebe3e811f8c3ce": {
+   "label": "ES",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Knee joint pain"
+   },
+   "patient": {
+    "age": 69,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_american_m_sixties_20008665.wav"
+   },
+   "icd10": "M25.5"
+  },
+  "d0fc5b9cbc6b7ab3": {
+   "label": "ES",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Other osteoporosis without current pathological fracture"
+   },
+   "patient": {
+    "age": 42,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_australian_f_fourties_125718.wav"
+   },
+   "icd10": "M81.8"
+  },
+  "dbc7a0c849c40761": {
+   "label": "ES",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Polyarteritis nodosa, unspecified"
+   },
+   "patient": {
+    "age": 56,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_british_m_fifties_25121578.wav"
+   },
+   "icd10": "M30.0"
+  },
+  "c892159d2bc3ec69": {
+   "label": "ES",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Eosinophilic fasciitis"
+   },
+   "patient": {
+    "age": 45,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_southasian_f_fourties_18293565.wav"
+   },
+   "icd10": "M35.4"
+  },
+  "da2b09f1bacc989b": {
+   "label": "OE",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Joint instability"
+   },
+   "patient": {
+    "age": 38,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_american_m_thirties_26976651.wav"
+   },
+   "icd10": "M25.3"
+  },
+  "23a8cbf5c8271500": {
+   "label": "OE",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Hand joint pain"
+   },
+   "patient": {
+    "age": 25,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_australian_f_twenties_37976443.wav"
+   },
+   "icd10": "M25.5"
+  },
+  "88b73249aa284b6b": {
+   "label": "OE",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Psoriatic arthritis, other type"
+   },
+   "patient": {
+    "age": 31,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_british_m_thirties_498431.wav"
+   },
+   "icd10": "M07.3"
+  },
+  "7906187e6296d4b9": {
+   "label": "OE",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Septic arthritis follow-up"
+   },
+   "patient": {
+    "age": 55,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_southasian_f_fifties_27491.wav"
+   },
+   "icd10": "M00.9"
+  },
+  "5f9fc966d775fe87": {
+   "label": "OE",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Rheumatoid arthritis with rheumatoid lung disease"
+   },
+   "patient": {
+    "age": 79,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_african_m_seventies_26971571.wav"
+   },
+   "icd10": "M05.1"
+  },
+  "a0b1e41fe90e5716": {
+   "label": "RS",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Sjögren syndrome with lung involvement"
+   },
+   "patient": {
+    "age": 51,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_australian_f_fifties_24758223.wav"
+   },
+   "icd10": "M35.0"
+  },
+  "598ddf50269066eb": {
+   "label": "RS",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Spinal stenosis"
+   },
+   "patient": {
+    "age": 38,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_british_m_thirties_32799636.wav"
+   },
+   "icd10": "M48.0"
+  },
+  "b1d8b4f9673fde0e": {
+   "label": "RS",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Joint effusion"
+   },
+   "patient": {
+    "age": 51,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_southasian_f_fifties_27491.wav"
+   },
+   "icd10": "M25.4"
+  },
+  "96c1c7be54557842": {
+   "label": "RS",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Ankylosing spondylitis"
+   },
+   "patient": {
+    "age": 26,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_african_m_twenties_22370707.wav"
+   },
+   "icd10": "M45"
+  },
+  "4591d8b97362b211": {
+   "label": "RS",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Arthropathy associated with neoplastic disease"
+   },
+   "patient": {
+    "age": 22,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_american_f_twenties_17309549.wav"
+   },
+   "icd10": "M36.1"
+  },
+  "92059a88cc38fe86": {
+   "label": "EQ",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Joint stiffness"
+   },
+   "patient": {
+    "age": 28,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_british_m_twenties_93568.wav"
+   },
+   "icd10": "M25.6"
+  },
+  "ca0c6d11be14d59f": {
+   "label": "EQ",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Reiter syndrome"
+   },
+   "patient": {
+    "age": 35,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_southasian_f_thirties_21513675.wav"
+   },
+   "icd10": "M02.3"
+  },
+  "df4eb9c224611152": {
+   "label": "EQ",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Other specified rheumatoid arthritis"
+   },
+   "patient": {
+    "age": 23,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_african_m_twenties_18341794.wav"
+   },
+   "icd10": "M06.8"
+  },
+  "ae612d1cb018acc2": {
+   "label": "EQ",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Drug-induced gout"
+   },
+   "patient": {
+    "age": 32,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_american_f_thirties_25345518.wav"
+   },
+   "icd10": "M10.2"
+  },
+  "867de10845d5a31b": {
+   "label": "EQ",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Other systemic sclerosis"
+   },
+   "patient": {
+    "age": 22,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_australian_m_twenties_27775550.wav"
+   },
+   "icd10": "M34.8"
+  },
+  "51da9ba6f4b691a9": {
+   "label": "AQ",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Systemic sclerosis, unspecified"
+   },
+   "patient": {
+    "age": 46,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_american_f_fourties_261913.wav"
+   },
+   "icd10": "M34.9"
+  },
+  "7e1ac7ac17399efb": {
+   "label": "AQ",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Foot pain"
+   },
+   "patient": {
+    "age": 40,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_australian_m_fourties_20253689.wav"
+   },
+   "icd10": "M79.6"
+  },
+  "e79f4181bc1a4003": {
+   "label": "AQ",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Juvenile polyarthritis persisting into adulthood"
+   },
+   "patient": {
+    "age": 64,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_british_f_sixties_157259.wav"
+   },
+   "icd10": "M08.3"
+  },
+  "554aab281e81ebcc": {
+   "label": "AQ",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Osteoporosis, unspecified, without current pathological fracture"
+   },
+   "patient": {
+    "age": 48,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_southasian_m_fourties_25930409.wav"
+   },
+   "icd10": "M81.9"
+  },
+  "5a79b20d8d2181fb": {
+   "label": "AQ",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Myofascial pain syndrome"
+   },
+   "patient": {
+    "age": 55,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_african_f_fifties_37564482.wav"
+   },
+   "icd10": "M79.1"
+  },
+  "6feec18e35375a74": {
+   "label": "AR",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Polymyalgia rheumatica"
+   },
+   "patient": {
+    "age": 67,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_australian_m_sixties_19745523.wav"
+   },
+   "icd10": "M35.3"
+  },
+  "8db686581eee74f1": {
+   "label": "AR",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Lumbar spondylosis with radiculopathy"
+   },
+   "patient": {
+    "age": 31,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_british_f_thirties_20574683.wav"
+   },
+   "icd10": "M47.2"
+  },
+  "ebde860cc46c109c": {
+   "label": "AR",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Other reactive arthropathy"
+   },
+   "patient": {
+    "age": 32,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_southasian_m_thirties_19088.wav"
+   },
+   "icd10": "M02.8"
+  },
+  "f0cf36b4cb7e21b3": {
+   "label": "AR",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Neuralgia or neuritis, unspecified"
+   },
+   "patient": {
+    "age": 55,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_african_f_fifties_37564482.wav"
+   },
+   "icd10": "M79.2"
+  },
+  "378698228f58ab86": {
+   "label": "AR",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Ankle or foot joint pain"
+   },
+   "patient": {
+    "age": 53,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_american_m_fifties_15733425.wav"
+   },
+   "icd10": "M25.5"
+  },
+  "c141445c7fc6a5f9": {
+   "label": "SD",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Collapsed vertebra, not elsewhere classified"
+   },
+   "patient": {
+    "age": 48,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_british_f_fourties_499539.wav"
+   },
+   "icd10": "M48.5"
+  },
+  "ab6ffb5a277bcfdc": {
+   "label": "SD",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Polymyositis"
+   },
+   "patient": {
+    "age": 50,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_southasian_m_fifties_20975758.wav"
+   },
+   "icd10": "M33.2"
+  },
+  "f6d3aa4ccbb7add3": {
+   "label": "SD",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Sacroiliitis"
+   },
+   "patient": {
+    "age": 35,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_african_f_thirties_37533529.wav"
+   },
+   "icd10": "M46.1"
+  },
+  "57283a148f6935f9": {
+   "label": "SD",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Cutaneous small-vessel vasculitis"
+   },
+   "patient": {
+    "age": 69,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_american_m_sixties_19619549.wav"
+   },
+   "icd10": "M31.0"
+  },
+  "c8386fcef8f2a6a7": {
+   "label": "SD",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Eosinophilic granulomatosis with polyangiitis"
+   },
+   "patient": {
+    "age": 24,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_australian_f_twenties_22980619.wav"
+   },
+   "icd10": "M30.1"
+  },
+  "0dfbc82b0c41386f": {
+   "label": "W",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Cervical spondylosis with radiculopathy"
+   },
+   "patient": {
+    "age": 50,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_southasian_m_fifties_19681611.wav"
+   },
+   "icd10": "M47.2"
+  },
+  "914c49d22bb97220": {
+   "label": "W",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Ulcerative colitis-associated arthropathy"
+   },
+   "patient": {
+    "age": 56,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_african_f_fifties_10047.wav"
+   },
+   "icd10": "M07.5"
+  },
+  "093a0264be898abe": {
+   "label": "W",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Spondylosis, unspecified"
+   },
+   "patient": {
+    "age": 60,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_american_m_sixties_19972754.wav"
+   },
+   "icd10": "M47.9"
+  },
+  "a23ee9bdbf4de80e": {
+   "label": "W",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Seropositive rheumatoid arthritis, unspecified"
+   },
+   "patient": {
+    "age": 70,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_australian_f_seventies_441954.wav"
+   },
+   "icd10": "M05.9"
+  },
+  "e6ab82165e4eb20f": {
+   "label": "W",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Psoriatic spondylitis"
+   },
+   "patient": {
+    "age": 65,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_british_m_sixties_19599840.wav"
+   },
+   "icd10": "M07.2"
+  },
+  "fc4d0684e8b2b072": {
+   "label": "ASK",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Lumbar spondylosis with radiculopathy"
+   },
+   "patient": {
+    "age": 37,
+    "gender": "female",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_african_f_thirties_28457143.wav"
+   },
+   "icd10": "M47.2"
+  },
+  "062cd237b79b36b2": {
+   "label": "ASK",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Limited systemic sclerosis (CREST syndrome)"
+   },
+   "patient": {
+    "age": 72,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 44,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_american_m_seventies_622068.wav"
+   },
+   "icd10": "M34.1"
+  },
+  "bdbf7bc50a789b30": {
+   "label": "ASK",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Behçet disease"
+   },
+   "patient": {
+    "age": 25,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_australian_f_twenties_21509938.wav"
+   },
+   "icd10": "M35.2"
+  },
+  "f602146f0db8dc1d": {
+   "label": "ASK",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Multifocal fibrosclerosis"
+   },
+   "patient": {
+    "age": 68,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_british_m_sixties_18713505.wav"
+   },
+   "icd10": "M35.5"
+  },
+  "bed8977d7c851bfe": {
+   "label": "ASK",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Diffuse idiopathic skeletal hyperostosis (DISH)"
+   },
+   "patient": {
+    "age": 53,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_southasian_f_fifties_17562715.wav"
+   },
+   "icd10": "M48.1"
+  },
+  "1f1fe47028eced20": {
+   "label": "ADVISED",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Positive rheumatoid factor"
+   },
+   "patient": {
+    "age": 65,
+    "gender": "male",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_american_m_sixties_37237244.wav"
+   },
+   "icd10": "R76.8"
+  },
+  "92a1a8502e3a5e0c": {
+   "label": "ADVISED",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Crohn disease-associated arthropathy"
+   },
+   "patient": {
+    "age": 76,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_australian_f_seventies_17253258.wav"
+   },
+   "icd10": "M07.4"
+  },
+  "f39893a3ec1603c2": {
+   "label": "ADVISED",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Arthritis mutilans"
+   },
+   "patient": {
+    "age": 58,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_british_m_fifties_20223012.wav"
+   },
+   "icd10": "M07.1"
+  },
+  "2080be44245c8730": {
+   "label": "ADVISED",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Polyarthritis, unspecified"
+   },
+   "patient": {
+    "age": 54,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_southasian_f_fifties_27491.wav"
+   },
+   "icd10": "M13.0"
+  },
+  "de239e3576b5b17f": {
+   "label": "ADVISED",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Kawasaki disease follow-up"
+   },
+   "patient": {
+    "age": 44,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 40,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_african_m_fourties_575319.wav"
+   },
+   "icd10": "M30.3"
+  },
+  "baf1b15dfba33de2": {
+   "label": "ASSESS",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Hemarthrosis"
+   },
+   "patient": {
+    "age": 71,
+    "gender": "female",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 42,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_australian_f_seventies_17253258.wav"
+   },
+   "icd10": "M25.0"
+  },
+  "6c0a0fb7781a977a": {
+   "label": "ASSESS",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Giant cell arteritis"
+   },
+   "patient": {
+    "age": 52,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_british_m_fifties_19876395.wav"
+   },
+   "icd10": "M31.6"
+  },
+  "ce5c166bd1e8f97f": {
+   "label": "ASSESS",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Diffuse systemic sclerosis"
+   },
+   "patient": {
+    "age": 30,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 43,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_southasian_f_thirties_19184700.wav"
+   },
+   "icd10": "M34.0"
+  },
+  "1b095c9cf12f006d": {
+   "label": "ASSESS",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Rheumatoid arthritis, unspecified"
+   },
+   "patient": {
+    "age": 64,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_african_m_sixties_503930.wav"
+   },
+   "icd10": "M06.9"
+  },
+  "dd9434bf55c92951": {
+   "label": "ASSESS",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Other specified crystal arthropathy"
+   },
+   "patient": {
+    "age": 51,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_american_f_fifties_1464441.wav"
+   },
+   "icd10": "M11.8"
+  },
+  "5823468caecbf173": {
+   "label": "ASSIST",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Other chondrocalcinosis"
+   },
+   "patient": {
+    "age": 54,
+    "gender": "male",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 49,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_british_m_fifties_17255635.wav"
+   },
+   "icd10": "M11.2"
+  },
+  "c773cd23d577712d": {
+   "label": "ASSIST",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Other secondary gout"
+   },
+   "patient": {
+    "age": 31,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 46,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_southasian_f_thirties_19184700.wav"
+   },
+   "icd10": "M10.4"
+  },
+  "0ae2e8719947ad65": {
+   "label": "ASSIST",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Vertebral fatigue fracture"
+   },
+   "patient": {
+    "age": 37,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_african_m_thirties_76271.wav"
+   },
+   "icd10": "M48.4"
+  },
+  "9eb1ca34b228d6a3": {
+   "label": "ASSIST",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Enteropathic spondylitis"
+   },
+   "patient": {
+    "age": 36,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_american_f_thirties_19717153.wav"
+   },
+   "icd10": "M49.8"
+  },
+  "7e3f31b343d97856": {
+   "label": "ASSIST",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Crystal arthropathy, unspecified"
+   },
+   "patient": {
+    "age": 24,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_australian_m_twenties_18238.wav"
+   },
+   "icd10": "M11.9"
+  },
+  "5014c43fa20dfc26": {
+   "label": "ARRANGE",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Myalgia"
+   },
+   "patient": {
+    "age": 54,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "clinician": {
+    "age": 47,
+    "gender": "female",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_22465949.wav",
+    "patient": "cv_southasian_f_fifties_17562715.wav"
+   },
+   "icd10": "M79.1"
+  },
+  "c73507c2180a4bef": {
+   "label": "ARRANGE",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Rheumatoid bursitis"
+   },
+   "patient": {
+    "age": 62,
+    "gender": "male",
+    "region": "African"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_17281510.wav",
+    "patient": "cv_african_m_sixties_18482426.wav"
+   },
+   "icd10": "M06.2"
+  },
+  "5440e7a9b5cd20b3": {
+   "label": "ARRANGE",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Unspecified abnormal immunological finding in serum"
+   },
+   "patient": {
+    "age": 71,
+    "gender": "female",
+    "region": "American"
+   },
+   "clinician": {
+    "age": 48,
+    "gender": "female",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_20113591.wav",
+    "patient": "cv_american_f_seventies_26967014.wav"
+   },
+   "icd10": "R76.9"
+  },
+  "fab7cf6df124cfad": {
+   "label": "ARRANGE",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "first visit for this problem",
+    "condition": "Polymyalgia rheumatica"
+   },
+   "patient": {
+    "age": 62,
+    "gender": "male",
+    "region": "Australian"
+   },
+   "clinician": {
+    "age": 45,
+    "gender": "male",
+    "region": "South Asian"
+   },
+   "voices": {
+    "doctor": "cv_39477765.wav",
+    "patient": "cv_australian_m_sixties_13117.wav"
+   },
+   "icd10": "M35.3"
+  },
+  "273ea22912f1e605": {
+   "label": "ARRANGE",
+   "department": "rheumatology",
+   "case": {
+    "visit_stage": "follow-up visit",
+    "condition": "Undifferentiated connective tissue disease"
+   },
+   "patient": {
+    "age": 53,
+    "gender": "female",
+    "region": "British"
+   },
+   "clinician": {
+    "age": 41,
+    "gender": "male",
+    "region": "American"
+   },
+   "voices": {
+    "doctor": "cv_19949787.wav",
+    "patient": "cv_british_f_fifties_17873940.wav"
+   },
+   "icd10": "M35.9"
+  }
+ }
+}

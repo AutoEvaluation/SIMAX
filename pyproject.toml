@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "simax"
+version = "1.0.0"
+description = "Simulated clinician-patient visits with controlled communication behaviors"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["numpy"]
+
+[project.optional-dependencies]
+generation = ["openai>=1.40"]
+audio = ["librosa", "scipy", "soundfile", "torch", "torchaudio", "transformers", "openai-whisper", "speechbrain"]
+evaluation = ["jiwer", "librosa", "torch", "transformers", "openai-whisper", "nemo_toolkit[asr]", "utmosv2", "wvmos"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

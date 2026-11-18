@@ -1,0 +1,161 @@
+{
+ "version": "topic-profile-template",
+ "instructions": "Template: replace every null with your own value before generating dialogues.",
+ "real": {
+  "small_talk_line_share": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  },
+  "small_talk_word_share": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  },
+  "small_talk_stretches": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  },
+  "small_talk_stretch_lines": {
+   "q25": null,
+   "median": null,
+   "q75": null
+  },
+  "visits_without_small_talk": null,
+  "logistics_line_share": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  },
+  "life_with_illness_line_share": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  },
+  "greeting_line_share": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  }
+ },
+ "targets": {
+  "default": {
+   "quantiles": {
+    "stretches": {
+     "q10": null,
+     "q25": null,
+     "median": null,
+     "q75": null,
+     "q90": null
+    },
+    "turn_share": {
+     "q10": null,
+     "q25": null,
+     "median": null,
+     "q75": null,
+     "q90": null
+    }
+   }
+  },
+  "warmth": {
+   "1": {
+    "stretches": [
+     null,
+     null
+    ],
+    "turn_share": [
+     null,
+     null
+    ]
+   },
+   "2": {
+    "stretches": [
+     null,
+     null
+    ],
+    "turn_share": [
+     null,
+     null
+    ]
+   },
+   "3": {
+    "stretches": [
+     null,
+     null
+    ],
+    "turn_share": [
+     null,
+     null
+    ]
+   }
+  }
+ },
+ "visit_mix": {
+  "logistics_turn_share": [
+   null,
+   null
+  ],
+  "logistics_middle_share": null,
+  "logistics_middle_deciles": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "life_turn_share": {
+   "default": [
+    null,
+    null
+   ],
+   "warmth": {
+    "1": [
+     null,
+     null
+    ],
+    "2": [
+     null,
+     null
+    ],
+    "3": [
+     null,
+     null
+    ]
+   }
+  }
+ },
+ "position": {
+  "start_deciles": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "doctor_starts": null
+ },
+ "loose_positions_for": [
+  "flow"
+ ],
+ "low_arm_guard": true
+}

@@ -1,0 +1,2155 @@
+{
+ "voices": [
+  {
+   "wav": "cv_17281510.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17281510.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "To fall into the house with the door to blurt out something to put it bluntly."
+  },
+  {
+   "wav": "cv_19949787.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19949787.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "Suffering from French raids in their territory, they had become refugees."
+  },
+  {
+   "wav": "cv_20113591.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_20113591.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "Laurier Station is within walking distance of Mackenzie King Station and the Rideau Centre."
+  },
+  {
+   "wav": "cv_22465949.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_22465949.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "The Claiborne Parish School Board operates Haynesville Elementary School and Haynesville Junior-Senior High School."
+  },
+  {
+   "wav": "cv_39477765.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_39477765.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "They are premised on different facts and different local conditions."
+  },
+  {
+   "wav": "cv_african_f_fifties_10047.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_10047.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "In some places, the ground was covered with the salt of dried-up lakes."
+  },
+  {
+   "wav": "cv_african_f_fifties_37564482.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_37564482.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "The ceremonies of new moon are probably in many cases magical rather than religious."
+  },
+  {
+   "wav": "cv_african_f_fifties_54402.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_54402.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "He looked like an Arab, which was not unusual in those parts."
+  },
+  {
+   "wav": "cv_african_f_fifties_596845.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_596845.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "After writing a bug report, one should regularly check if someone responded."
+  },
+  {
+   "wav": "cv_african_f_fourties_22178626.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_22178626.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "Over seven species of trout can be found in the area lakes."
+  },
+  {
+   "wav": "cv_african_f_thirties_18422993.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18422993.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "Rock, paper, scissors is a popular children's game."
+  },
+  {
+   "wav": "cv_african_f_thirties_28457143.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_28457143.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "Rowett agreed to finance the entire expedition, which became known as the Shackleton-Rowett Expedition."
+  },
+  {
+   "wav": "cv_african_f_thirties_36993508.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_36993508.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "Because the backup was dated, the website was now under construction."
+  },
+  {
+   "wav": "cv_african_f_thirties_37533529.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_37533529.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "The main match for the SmackDown!"
+  },
+  {
+   "wav": "cv_african_f_thirties_42817051.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_42817051.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "There have been a number of improvements to the campus in recent years."
+  },
+  {
+   "wav": "cv_african_f_thirties_614775.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_614775.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "The top had certainly ceased to rotate."
+  },
+  {
+   "wav": "cv_african_f_twenties_17256473.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17256473.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "He could have sworn the shadow moved but he kept his eyes fixed on the table, his grip tightening on his cutlery."
+  },
+  {
+   "wav": "cv_african_f_twenties_19524811.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19524811.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "Despite the tantalizing possibilities, Laws hedges his bets and never cuts loose."
+  },
+  {
+   "wav": "cv_african_f_twenties_38394601.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_38394601.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "He died in Palo Alto, California."
+  },
+  {
+   "wav": "cv_african_f_twenties_38395293.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_38395293.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "It is only open during the summer."
+  },
+  {
+   "wav": "cv_african_f_twenties_38396634.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_38396634.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "However, customers still have the option to tax their vehicles via the Post Office."
+  },
+  {
+   "wav": "cv_african_f_twenties_42751082.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_42751082.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "Its western and southwestern parts have many volcanic rocks."
+  },
+  {
+   "wav": "cv_african_f_twenties_42785961.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_42785961.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "We need not wonder that he does not exercise it."
+  },
+  {
+   "wav": "cv_african_f_twenties_575894.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_575894.mp3",
+   "region": "African",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "\"I heard what you were talking about the other day with the alchemist,\" the wind said."
+  },
+  {
+   "wav": "cv_african_m_fifties_128311.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_128311.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "fifties",
+   "sentence": "Our merchants bought that man, and brought him to Egypt."
+  },
+  {
+   "wav": "cv_african_m_fourties_17637592.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17637592.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "\"Jellyfish can cause serious injuries\", the physician explained to the patient."
+  },
+  {
+   "wav": "cv_african_m_fourties_19490514.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19490514.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "However, water pollution has affected the viability of this project."
+  },
+  {
+   "wav": "cv_african_m_fourties_575319.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_575319.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "The article references previous biometric work in a reasonable way."
+  },
+  {
+   "wav": "cv_african_m_seventies_26971571.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_26971571.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "seventies",
+   "sentence": "Having regained peace, Liberia is attempting to construct a legitimate diamond mining industry."
+  },
+  {
+   "wav": "cv_african_m_sixties_1100186.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_1100186.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "A friend to everybody is a friend to nobody."
+  },
+  {
+   "wav": "cv_african_m_sixties_18482426.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18482426.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "Suddenly his fingers closed tightly over the handkerchief."
+  },
+  {
+   "wav": "cv_african_m_sixties_503930.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_503930.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "If you had known me you would have offered me a cup of tea."
+  },
+  {
+   "wav": "cv_african_m_sixties_535360.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_535360.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "What is the weather forecast for Cistern"
+  },
+  {
+   "wav": "cv_african_m_thirties_19540114.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19540114.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "Somehow, we pulled it together."
+  },
+  {
+   "wav": "cv_african_m_thirties_20531983.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_20531983.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "He offered demonstration games and press coverage."
+  },
+  {
+   "wav": "cv_african_m_thirties_23536857.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_23536857.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "Funding was also provided by Sir Charles Holcroft."
+  },
+  {
+   "wav": "cv_african_m_thirties_23989306.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_23989306.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "This is in the \"proportional counting\" region."
+  },
+  {
+   "wav": "cv_african_m_thirties_45527.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_45527.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "My review of the sun: one star."
+  },
+  {
+   "wav": "cv_african_m_thirties_76271.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_76271.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "The boy, accustomed to recognizing omens, spoke to the merchant."
+  },
+  {
+   "wav": "cv_african_m_twenties_18341794.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18341794.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "twenties",
+   "sentence": "I couldn't see the car's number plate, so can't tell you its registration number"
+  },
+  {
+   "wav": "cv_african_m_twenties_18844765.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18844765.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "twenties",
+   "sentence": "The couple had a child, Stella, prior to their divorce."
+  },
+  {
+   "wav": "cv_african_m_twenties_22370707.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_22370707.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "twenties",
+   "sentence": "If water retention progresses to a symptomatic extent, swelling results."
+  },
+  {
+   "wav": "cv_african_m_twenties_642766.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_642766.mp3",
+   "region": "African",
+   "gender": "male",
+   "age": "twenties",
+   "sentence": "He looked like an Arab, which was not unusual in those parts."
+  },
+  {
+   "wav": "cv_american_f_fifties_13369497.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_13369497.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "To speak without thinking is to shoot without taking aim"
+  },
+  {
+   "wav": "cv_american_f_fifties_1464441.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_1464441.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "Angry words fan the fire like wind."
+  },
+  {
+   "wav": "cv_american_f_fifties_16471.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_16471.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "I would appreciate if you could create a concise table."
+  },
+  {
+   "wav": "cv_american_f_fifties_26945600.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_26945600.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "After all, not everybody has seen those beautiful places."
+  },
+  {
+   "wav": "cv_american_f_fifties_38282302.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_38282302.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "The second of these passages occurs in a sermon of doubtful authenticity."
+  },
+  {
+   "wav": "cv_american_f_fourties_18236758.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18236758.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "Is it actually unusual for a planet that its axis is tilted?"
+  },
+  {
+   "wav": "cv_american_f_fourties_18657280.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18657280.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "The typeset was clear and easy to read."
+  },
+  {
+   "wav": "cv_american_f_fourties_18920889.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18920889.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "The village forms a stereotypical tropical village, including coconut trees and grass-roofed huts."
+  },
+  {
+   "wav": "cv_american_f_fourties_261913.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_261913.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "It was like electricity through her veins."
+  },
+  {
+   "wav": "cv_american_f_fourties_33322125.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_33322125.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "Information taken from World Athletics profile unless otherwise noted."
+  },
+  {
+   "wav": "cv_american_f_seventies_19579294.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19579294.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "seventies",
+   "sentence": "Zabuton are found throughout Japan and enter many aspects of the culture."
+  },
+  {
+   "wav": "cv_american_f_seventies_19756059.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19756059.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "seventies",
+   "sentence": "In addition, smaller groups made up of orchestra personnel perform throughout the year."
+  },
+  {
+   "wav": "cv_american_f_seventies_26967014.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_26967014.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "seventies",
+   "sentence": "The editor then was Irving Rosenthal."
+  },
+  {
+   "wav": "cv_american_f_seventies_589570.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_589570.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "seventies",
+   "sentence": "The merchant was silent for a few moments."
+  },
+  {
+   "wav": "cv_american_f_sixties_19941763.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19941763.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "sixties",
+   "sentence": "Sometimes garlic is used."
+  },
+  {
+   "wav": "cv_american_f_sixties_26962464.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_26962464.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "sixties",
+   "sentence": "The new name for the town was called Waynesboro-Basic."
+  },
+  {
+   "wav": "cv_american_f_sixties_610468.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_610468.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "sixties",
+   "sentence": "Nobody is born as a hero but everyone can become a hero."
+  },
+  {
+   "wav": "cv_american_f_sixties_653426.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_653426.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "sixties",
+   "sentence": "\"Maybe tomorrow,\" said the boy, moving away."
+  },
+  {
+   "wav": "cv_american_f_thirties_17716310.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17716310.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "We don't get much money but we have fun."
+  },
+  {
+   "wav": "cv_american_f_thirties_19300841.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19300841.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "They released their first episode, \"A Lesson with John McEnroe\", with Dimension Films."
+  },
+  {
+   "wav": "cv_american_f_thirties_19696341.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19696341.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "It is part of Saint Patrick's Parish."
+  },
+  {
+   "wav": "cv_american_f_thirties_19717153.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19717153.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "The town also houses the Shinzo Maeda Photo Art Gallery."
+  },
+  {
+   "wav": "cv_american_f_thirties_25345518.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_25345518.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "Seann is the youngest of seven children."
+  },
+  {
+   "wav": "cv_american_f_thirties_636178.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_636178.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "\"I don't know how to find life in the desert,\" the boy said."
+  },
+  {
+   "wav": "cv_american_f_twenties_17309549.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17309549.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "Shall I meet you in the concourse then?"
+  },
+  {
+   "wav": "cv_american_f_twenties_17931297.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17931297.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "\"How many hens are there for one cock?\", I asked the farmer."
+  },
+  {
+   "wav": "cv_american_f_twenties_18890851.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18890851.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "His works have been translated into fifteen languages."
+  },
+  {
+   "wav": "cv_american_f_twenties_19602820.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19602820.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "The replay was moved away from London to Ewood Park."
+  },
+  {
+   "wav": "cv_american_f_twenties_19677010.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19677010.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "Authenticated photographs were taken, which are today in the British Library."
+  },
+  {
+   "wav": "cv_american_f_twenties_22789502.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_22789502.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "He died at the Luxembourg Palace."
+  },
+  {
+   "wav": "cv_american_f_twenties_23676704.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_23676704.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "Nonetheless, he accepted to be a straw purchaser for Yarrington."
+  },
+  {
+   "wav": "cv_american_f_twenties_39620462.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_39620462.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "\"Lazy\" and \"By the Sea\" were two of Anderson's own compositions."
+  },
+  {
+   "wav": "cv_american_f_twenties_670104.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_670104.mp3",
+   "region": "American",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "If you start your emails with \"Greetings\" let me be the first to welcome you to Earth."
+  },
+  {
+   "wav": "cv_american_m_fifties_15733425.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_15733425.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "fifties",
+   "sentence": "That's comparing apples and oranges."
+  },
+  {
+   "wav": "cv_american_m_fifties_17976622.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17976622.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "fifties",
+   "sentence": "Early to bed, early to rise, makes you healthy, wealthy & wise."
+  },
+  {
+   "wav": "cv_american_m_fifties_23639585.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_23639585.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "fifties",
+   "sentence": "In any case, this appellation is tactfully avoided in her presence."
+  },
+  {
+   "wav": "cv_american_m_fifties_34980360.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_34980360.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "fifties",
+   "sentence": "The township includes the unincorporated community of Middle Lancaster."
+  },
+  {
+   "wav": "cv_american_m_fourties_174226.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_174226.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "That's a Christmas present from a very dear friend of mine."
+  },
+  {
+   "wav": "cv_american_m_fourties_610194.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_610194.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "Four people standing in an enclosure with a sign that says The Human Shop on it"
+  },
+  {
+   "wav": "cv_american_m_seventies_20090186.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_20090186.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "seventies",
+   "sentence": "Yugo-nostalgia is seeing a comeback in the former Yugoslav states."
+  },
+  {
+   "wav": "cv_american_m_seventies_25972157.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_25972157.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "seventies",
+   "sentence": "Leno is also internationally known as a collector of vintage cars, current sports cars and motorcycles."
+  },
+  {
+   "wav": "cv_american_m_seventies_38763658.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_38763658.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "seventies",
+   "sentence": "It is a common belief that certain masks possess the virtue of banning demons."
+  },
+  {
+   "wav": "cv_american_m_seventies_43547.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_43547.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "seventies",
+   "sentence": "What are you doing there?"
+  },
+  {
+   "wav": "cv_american_m_seventies_622068.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_622068.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "seventies",
+   "sentence": "I'm never more aware of a room's acoustics than when I'm trying to enjoy a snack I have no intention of sharing."
+  },
+  {
+   "wav": "cv_american_m_sixties_19619549.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19619549.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "Movies made for television are not included."
+  },
+  {
+   "wav": "cv_american_m_sixties_19972754.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19972754.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "She went on quickly, in contempt."
+  },
+  {
+   "wav": "cv_american_m_sixties_20008665.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_20008665.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "During the last century extensions and additions to the school were made."
+  },
+  {
+   "wav": "cv_american_m_sixties_37237244.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_37237244.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "Destro, an arms dealer, often attempts to usurp leadership of Cobra."
+  },
+  {
+   "wav": "cv_american_m_thirties_18817654.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18817654.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "The resultant slag is drawn off and spun to form the rock wool product."
+  },
+  {
+   "wav": "cv_american_m_thirties_21620050.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_21620050.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "The cartoon-style action is viewed in the isometric perspective."
+  },
+  {
+   "wav": "cv_american_m_thirties_26976651.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_26976651.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "Most offer residential housing for members."
+  },
+  {
+   "wav": "cv_american_m_thirties_35588350.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_35588350.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "The song features vocals from American rapper Gunna and production from Royce David."
+  },
+  {
+   "wav": "cv_american_m_twenties_18511881.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18511881.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "twenties",
+   "sentence": "Your privacy is very important."
+  },
+  {
+   "wav": "cv_american_m_twenties_20304708.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_20304708.mp3",
+   "region": "American",
+   "gender": "male",
+   "age": "twenties",
+   "sentence": "The healthier a person is, the less likely problems may arise."
+  },
+  {
+   "wav": "cv_australian_f_fifties_18839947.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18839947.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "The current bridge, installed during the post-war reconstruction, was named in his honor."
+  },
+  {
+   "wav": "cv_australian_f_fifties_19607655.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19607655.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "Canonica was born at Moncalieri in the province of Turin in the Piedmont region."
+  },
+  {
+   "wav": "cv_australian_f_fifties_24758223.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_24758223.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "In Dallas, Texas, there was a special sorrow."
+  },
+  {
+   "wav": "cv_australian_f_fifties_25256608.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_25256608.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "He is also an Emeritus Professor of the Australian National University."
+  },
+  {
+   "wav": "cv_australian_f_fifties_683081.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_683081.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "It was dropping off in flakes and raining down on the sand."
+  },
+  {
+   "wav": "cv_australian_f_fourties_125718.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_125718.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "An hour later, he had before him a chest of Spanish gold coins."
+  },
+  {
+   "wav": "cv_australian_f_fourties_17269388.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17269388.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "He that considers too much, will not bring anything to performance."
+  },
+  {
+   "wav": "cv_australian_f_fourties_19458027.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19458027.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "The other important act referred to the instruction of the young."
+  },
+  {
+   "wav": "cv_australian_f_fourties_22068213.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_22068213.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "While the story is overall unchanged, there are a few minor changes."
+  },
+  {
+   "wav": "cv_australian_f_fourties_23296983.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_23296983.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "Flat-light is a diffusion of sunlight."
+  },
+  {
+   "wav": "cv_australian_f_fourties_28761850.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_28761850.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "It would have been the first H anime to air in Animax."
+  },
+  {
+   "wav": "cv_australian_f_fourties_532574.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_532574.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "A part of me is also trying to come to terms with the fact that I won't be able to travel as much anymore."
+  },
+  {
+   "wav": "cv_australian_f_seventies_17253258.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17253258.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "seventies",
+   "sentence": "Anita passed out during gymnastics, she recovered quickly."
+  },
+  {
+   "wav": "cv_australian_f_seventies_19698106.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19698106.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "seventies",
+   "sentence": "The college maintains sisterhood ties with colleges and universities in four countries."
+  },
+  {
+   "wav": "cv_australian_f_seventies_441954.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_441954.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "seventies",
+   "sentence": "A drunk man's talk is a sober man's thought."
+  },
+  {
+   "wav": "cv_australian_f_sixties_18856867.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18856867.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "sixties",
+   "sentence": "Water pollution and subsequent eutrophication also reduces the availability of fresh water."
+  },
+  {
+   "wav": "cv_australian_f_thirties_124217.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_124217.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "I'm trying to explain to my mother how to get pictures off her phone."
+  },
+  {
+   "wav": "cv_australian_f_thirties_17571168.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17571168.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "Wake and rise, and step into the green outdoors."
+  },
+  {
+   "wav": "cv_australian_f_thirties_17803490.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17803490.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "The transaction is still pending."
+  },
+  {
+   "wav": "cv_australian_f_thirties_18722518.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18722518.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "Another possible derivation is from the Spanish for \"Holy Mass\"."
+  },
+  {
+   "wav": "cv_australian_f_thirties_18846868.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18846868.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "In their language it means \"land of precious jewels\"."
+  },
+  {
+   "wav": "cv_australian_f_thirties_220473.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_220473.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "As the Englishman left, Fatima arrived and filled her vessel with water."
+  },
+  {
+   "wav": "cv_australian_f_thirties_258153.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_258153.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "The hydrogen gas escaped."
+  },
+  {
+   "wav": "cv_australian_f_thirties_489158.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_489158.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "He needed someone to talk to so as to avoid thinking about the possibility of war."
+  },
+  {
+   "wav": "cv_australian_f_twenties_15734983.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_15734983.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "They were spaced out, in rows three feet apart."
+  },
+  {
+   "wav": "cv_australian_f_twenties_20302844.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_20302844.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "He had been appointed co-emperor by Licinius."
+  },
+  {
+   "wav": "cv_australian_f_twenties_205961.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_205961.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "What had been next to him five minutes ago was now at the other side."
+  },
+  {
+   "wav": "cv_australian_f_twenties_21509938.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_21509938.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "There were two heavy sheets of steel behind the pilot's head and back."
+  },
+  {
+   "wav": "cv_australian_f_twenties_22980619.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_22980619.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "As with Caligula, Germanicus is mostly referred to by his agnomen."
+  },
+  {
+   "wav": "cv_australian_f_twenties_24567354.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_24567354.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "There exists a large metal alloy plant in Alloy."
+  },
+  {
+   "wav": "cv_australian_f_twenties_37976443.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_37976443.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "It was speculated that the engine which powered the officers kayak was heard."
+  },
+  {
+   "wav": "cv_australian_f_twenties_41800258.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_41800258.mp3",
+   "region": "Australian",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "Goldfish were introduced during the German colonial period."
+  },
+  {
+   "wav": "cv_australian_m_fifties_17251749.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17251749.mp3",
+   "region": "Australian",
+   "gender": "male",
+   "age": "fifties",
+   "sentence": "You can lead a horse to water, but you can't make him drink."
+  },
+  {
+   "wav": "cv_australian_m_fifties_18009258.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18009258.mp3",
+   "region": "Australian",
+   "gender": "male",
+   "age": "fifties",
+   "sentence": "What's up homies?"
+  },
+  {
+   "wav": "cv_australian_m_fourties_20253689.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_20253689.mp3",
+   "region": "Australian",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "Subsequently, it was reduced to a single riding."
+  },
+  {
+   "wav": "cv_australian_m_fourties_696408.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_696408.mp3",
+   "region": "Australian",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "The boy became fearful; the omens told him that something was wrong."
+  },
+  {
+   "wav": "cv_australian_m_seventies_20233748.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_20233748.mp3",
+   "region": "Australian",
+   "gender": "male",
+   "age": "seventies",
+   "sentence": "At the time, these grants were among the largest Goshen College had ever received."
+  },
+  {
+   "wav": "cv_australian_m_sixties_13117.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_13117.mp3",
+   "region": "Australian",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "And we'll be at Larissa's Bar up the street."
+  },
+  {
+   "wav": "cv_australian_m_sixties_19745523.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19745523.mp3",
+   "region": "Australian",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "Even Georg Schumann's father was a socialist."
+  },
+  {
+   "wav": "cv_australian_m_thirties_17644656.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17644656.mp3",
+   "region": "Australian",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "How are you getting on?"
+  },
+  {
+   "wav": "cv_australian_m_thirties_19691442.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19691442.mp3",
+   "region": "Australian",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "In the tropics, a subtropical highland climate tends to feature spring-like weather year-round."
+  },
+  {
+   "wav": "cv_australian_m_twenties_18238.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18238.mp3",
+   "region": "Australian",
+   "gender": "male",
+   "age": "twenties",
+   "sentence": "At other times, at a crucial moment, I make it easier for things to happen."
+  },
+  {
+   "wav": "cv_australian_m_twenties_27775550.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_27775550.mp3",
+   "region": "Australian",
+   "gender": "male",
+   "age": "twenties",
+   "sentence": "He is currently in another band that has been signed, as the drummer."
+  },
+  {
+   "wav": "cv_british_f_fifties_17873940.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17873940.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "After the storm comes the calm."
+  },
+  {
+   "wav": "cv_british_f_fifties_27371619.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_27371619.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "Flights from here connect to mainland Scotland, the Orkney Islands and Norway."
+  },
+  {
+   "wav": "cv_british_f_fourties_19001007.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19001007.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "This theory is still being investigated."
+  },
+  {
+   "wav": "cv_british_f_fourties_19673159.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19673159.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "They behave similarly to soap."
+  },
+  {
+   "wav": "cv_british_f_fourties_20011844.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_20011844.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "His sister-in-law was the esteemed actress Helen Hayes."
+  },
+  {
+   "wav": "cv_british_f_fourties_20018269.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_20018269.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "Her infomercial was featured on French and English television."
+  },
+  {
+   "wav": "cv_british_f_fourties_22094978.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_22094978.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "Wattle Range Council has a directly-elected Mayor."
+  },
+  {
+   "wav": "cv_british_f_fourties_491391.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_491391.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "The top had certainly ceased to rotate."
+  },
+  {
+   "wav": "cv_british_f_fourties_499539.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_499539.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "I have a headache and a sore throat."
+  },
+  {
+   "wav": "cv_british_f_seventies_137717.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_137717.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "seventies",
+   "sentence": "But now the sounds inside had stopped."
+  },
+  {
+   "wav": "cv_british_f_seventies_19641374.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19641374.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "seventies",
+   "sentence": "The council appoints both the mayor and the city manager."
+  },
+  {
+   "wav": "cv_british_f_seventies_19705895.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19705895.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "seventies",
+   "sentence": "The company operates in three business segments: retail, commercial, and service provider."
+  },
+  {
+   "wav": "cv_british_f_seventies_694200.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_694200.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "seventies",
+   "sentence": "The three fell silent."
+  },
+  {
+   "wav": "cv_british_f_seventies_92748.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_92748.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "seventies",
+   "sentence": "His new friend pushed the owner aside, and pulled the boy outside with him."
+  },
+  {
+   "wav": "cv_british_f_sixties_157259.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_157259.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "sixties",
+   "sentence": "Almost everyone here speaks Spanish."
+  },
+  {
+   "wav": "cv_british_f_sixties_20994945.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_20994945.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "sixties",
+   "sentence": "That tour was transformed into a Felix Limardo documentary entitled Sol Caribe."
+  },
+  {
+   "wav": "cv_british_f_sixties_27148676.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_27148676.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "sixties",
+   "sentence": "Early solo projects included \"Love Don't Let Me Down\" and \"Count on Me."
+  },
+  {
+   "wav": "cv_british_f_sixties_669105.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_669105.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "sixties",
+   "sentence": "My review of the sun: one star."
+  },
+  {
+   "wav": "cv_british_f_thirties_19645258.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19645258.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "However, modern scholars have not discovered their meaning or use."
+  },
+  {
+   "wav": "cv_british_f_thirties_20574683.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_20574683.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "It was the largest bus company in New Zealand when sold."
+  },
+  {
+   "wav": "cv_british_f_thirties_23786261.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_23786261.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "In this subject he found his vocation."
+  },
+  {
+   "wav": "cv_british_f_thirties_25146275.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_25146275.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "Over the years Hanlon's outlook mellowed, and he shifted to the political right."
+  },
+  {
+   "wav": "cv_british_f_thirties_26897331.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_26897331.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "Formerly, coal mining was the chief industry."
+  },
+  {
+   "wav": "cv_british_f_thirties_40598998.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_40598998.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "In the United States, she appeared in Disney's \"The Haunted Mansion\"."
+  },
+  {
+   "wav": "cv_british_f_thirties_554854.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_554854.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "\"There is no wine in this country,\" the young man said."
+  },
+  {
+   "wav": "cv_british_f_thirties_585997.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_585997.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "The top had certainly ceased to rotate."
+  },
+  {
+   "wav": "cv_british_f_twenties_17936006.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17936006.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "The coherence of two waves expresses how well correlated the waves are as quantified by the cross-correlation function."
+  },
+  {
+   "wav": "cv_british_f_twenties_19262159.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19262159.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "After the race, he was described in \"Time\" as \"Panama's one-man Olympic hope."
+  },
+  {
+   "wav": "cv_british_f_twenties_19692102.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19692102.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "Jaspers valued humanism and the continuity of integral cultural tradition in political spheres."
+  },
+  {
+   "wav": "cv_british_f_twenties_23836824.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_23836824.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "The \"Great Raisin Raisin River Foot Race\" is held in Williamstown."
+  },
+  {
+   "wav": "cv_british_f_twenties_27398700.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_27398700.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "An audited level ministered at Advanced Organizations or Flag."
+  },
+  {
+   "wav": "cv_british_f_twenties_511851.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_511851.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "What had been next to him five minutes ago was now at the other side."
+  },
+  {
+   "wav": "cv_british_f_twenties_59348.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_59348.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "It was, however, still so hot from its flight through the air."
+  },
+  {
+   "wav": "cv_british_f_twenties_654707.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_654707.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "I think they perceived that nothing was to be done at the moment."
+  },
+  {
+   "wav": "cv_british_f_twenties_696503.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_696503.mp3",
+   "region": "British",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "We were sitting in the VIP lounge of the theater, when the drama reached its climax."
+  },
+  {
+   "wav": "cv_british_m_fifties_17255635.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17255635.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "fifties",
+   "sentence": "Did you see the chap over there with his arms in the air like he just doesn't care?"
+  },
+  {
+   "wav": "cv_british_m_fifties_19876395.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19876395.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "fifties",
+   "sentence": "Their father taught Paulini and her siblings how to harmonise."
+  },
+  {
+   "wav": "cv_british_m_fifties_20223012.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_20223012.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "fifties",
+   "sentence": "Since then, the commitments in the Declaration have been renewed every five years."
+  },
+  {
+   "wav": "cv_british_m_fifties_25121578.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_25121578.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "fifties",
+   "sentence": "The results can be seen in Nova Scotia, New Brunswick, and eastern Maine."
+  },
+  {
+   "wav": "cv_british_m_fourties_18408221.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18408221.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "How lovely the evenings were there!"
+  },
+  {
+   "wav": "cv_british_m_fourties_23350567.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_23350567.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "The blades of the knives are turned toward the plate."
+  },
+  {
+   "wav": "cv_british_m_seventies_17258567.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17258567.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "seventies",
+   "sentence": "Where are you going?"
+  },
+  {
+   "wav": "cv_british_m_seventies_18126326.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18126326.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "seventies",
+   "sentence": "She broke her arm in several places."
+  },
+  {
+   "wav": "cv_british_m_seventies_20034869.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_20034869.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "seventies",
+   "sentence": "It was impressive; in perspective it was tremendous."
+  },
+  {
+   "wav": "cv_british_m_seventies_505787.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_505787.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "seventies",
+   "sentence": "The boy became fearful; the omens told him that something was wrong."
+  },
+  {
+   "wav": "cv_british_m_sixties_18713505.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18713505.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "This center is also an evacuation site for residents during floods or other emergencies."
+  },
+  {
+   "wav": "cv_british_m_sixties_19599840.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19599840.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "As members toured the country with various shows, lodges were opened in other towns."
+  },
+  {
+   "wav": "cv_british_m_sixties_19614574.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19614574.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "It was based on the novel \"Diary of a Working Girl\" by Daniella Brodsky."
+  },
+  {
+   "wav": "cv_british_m_sixties_46281.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_46281.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "Rarely have I seen such a collection of poorly motivated simple methods."
+  },
+  {
+   "wav": "cv_british_m_thirties_138400.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_138400.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "Of course, the two were unable to do anything."
+  },
+  {
+   "wav": "cv_british_m_thirties_17922002.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17922002.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "Constable Beaver was leaning over the balustrade and observing the happenings around the pavilion."
+  },
+  {
+   "wav": "cv_british_m_thirties_19877474.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19877474.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "The finished product was transported to the port of Cardiff by mules and pack-horses."
+  },
+  {
+   "wav": "cv_british_m_thirties_23383244.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_23383244.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "That same year he received an honorary Doctor of Divinity degree from that institution."
+  },
+  {
+   "wav": "cv_british_m_thirties_28522166.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_28522166.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "Rather than accepting the situation, one emerges from it, abandoning a focalised viewpoint."
+  },
+  {
+   "wav": "cv_british_m_thirties_28683713.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_28683713.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "It is named after a family of settlers."
+  },
+  {
+   "wav": "cv_british_m_thirties_32799636.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_32799636.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "Six crew members were discharged there."
+  },
+  {
+   "wav": "cv_british_m_thirties_498431.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_498431.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "Did you know that the word \"commercial\" could mean the same as \"advertisement\"?"
+  },
+  {
+   "wav": "cv_british_m_twenties_23789948.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_23789948.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "twenties",
+   "sentence": "Other annual campaigns include Ramadan and Qurbani appeals."
+  },
+  {
+   "wav": "cv_british_m_twenties_93568.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_93568.mp3",
+   "region": "British",
+   "gender": "male",
+   "age": "twenties",
+   "sentence": "Are you trying to scoop us or something?"
+  },
+  {
+   "wav": "cv_southasian_f_fifties_17562715.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17562715.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "Salmon is one of the most popular fish and very delicious, though usually not sustainable."
+  },
+  {
+   "wav": "cv_southasian_f_fifties_23629071.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_23629071.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "The first presidential debate during the campaign is considered her most important breakthrough."
+  },
+  {
+   "wav": "cv_southasian_f_fifties_27491.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_27491.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "fifties",
+   "sentence": "The article references previous biometric work in a reasonable way."
+  },
+  {
+   "wav": "cv_southasian_f_fourties_18293565.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18293565.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "Ma'am, we are able to upgrade your seat for free."
+  },
+  {
+   "wav": "cv_southasian_f_fourties_26626454.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_26626454.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "Their colours are orange, blue and lime."
+  },
+  {
+   "wav": "cv_southasian_f_fourties_26983057.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_26983057.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "These symptoms often follow escaped victims back into their previously ordinary lives."
+  },
+  {
+   "wav": "cv_southasian_f_fourties_26990084.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_26990084.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "The little cradle-rocker was singing a lullaby to the suckling."
+  },
+  {
+   "wav": "cv_southasian_f_fourties_27313426.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_27313426.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "The city's economy is mainly in the manufacturing and service sectors."
+  },
+  {
+   "wav": "cv_southasian_f_fourties_30570602.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_30570602.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "fourties",
+   "sentence": "It consists of several federal and state protected areas."
+  },
+  {
+   "wav": "cv_southasian_f_thirties_19184700.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19184700.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "The module comprises four sections, with ten questions in each section."
+  },
+  {
+   "wav": "cv_southasian_f_thirties_19677467.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19677467.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "May he be damned, damned, damned!"
+  },
+  {
+   "wav": "cv_southasian_f_thirties_21513675.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_21513675.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "This unordered sum is called the Kirchhoff index of the graph."
+  },
+  {
+   "wav": "cv_southasian_f_thirties_24003739.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_24003739.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "He cited family reasons for refusing to run for the post."
+  },
+  {
+   "wav": "cv_southasian_f_thirties_680871.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_680871.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "thirties",
+   "sentence": "Ouch, that was uncalled for."
+  },
+  {
+   "wav": "cv_southasian_f_twenties_18709080.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18709080.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "It is written in anglified Scots, with a sprightly narrative and wry comic touches."
+  },
+  {
+   "wav": "cv_southasian_f_twenties_19650225.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19650225.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "His teammate was Tommy Hill."
+  },
+  {
+   "wav": "cv_southasian_f_twenties_20393753.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_20393753.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "It is originally from the Roman era, but has been rebuilt several times."
+  },
+  {
+   "wav": "cv_southasian_f_twenties_21595187.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_21595187.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "Peterson felt constricted by Prince's control and opted to pursue his own career."
+  },
+  {
+   "wav": "cv_southasian_f_twenties_24158012.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_24158012.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "The river flows through the heart of the city and its downtown business district."
+  },
+  {
+   "wav": "cv_southasian_f_twenties_546072.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_546072.mp3",
+   "region": "South Asian",
+   "gender": "female",
+   "age": "twenties",
+   "sentence": "A pox upon me for a clumsy thing."
+  },
+  {
+   "wav": "cv_southasian_m_fifties_19537947.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19537947.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "fifties",
+   "sentence": "He joined the Villagers club and started playing and preaching rugby."
+  },
+  {
+   "wav": "cv_southasian_m_fifties_19681611.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19681611.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "fifties",
+   "sentence": "They are routine contract-based claims and counterclaims."
+  },
+  {
+   "wav": "cv_southasian_m_fifties_19758190.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19758190.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "fifties",
+   "sentence": "The main economic activities on the island are farming and cattle raising."
+  },
+  {
+   "wav": "cv_southasian_m_fifties_20975758.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_20975758.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "fifties",
+   "sentence": "She was named for Secretary of the Navy David Henshaw."
+  },
+  {
+   "wav": "cv_southasian_m_fifties_27406749.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_27406749.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "fifties",
+   "sentence": "The other major difference between tropical and arctic alpine ecology is the temperature differences."
+  },
+  {
+   "wav": "cv_southasian_m_fourties_118596.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_118596.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "He arose and, taking up his crook, began to awaken the sheep that still slept."
+  },
+  {
+   "wav": "cv_southasian_m_fourties_17708138.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17708138.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "Seventeen gardeners are working this afternoon."
+  },
+  {
+   "wav": "cv_southasian_m_fourties_17763815.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17763815.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "He stole the PIN to her bank account."
+  },
+  {
+   "wav": "cv_southasian_m_fourties_18153464.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_18153464.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "I really thought you were behind all this."
+  },
+  {
+   "wav": "cv_southasian_m_fourties_25930409.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_25930409.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "By the bell, a region mural crown."
+  },
+  {
+   "wav": "cv_southasian_m_fourties_26944076.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_26944076.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "fourties",
+   "sentence": "He later participated in the development of programming languages, tools and operating systems."
+  },
+  {
+   "wav": "cv_southasian_m_sixties_17281510.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_17281510.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "To fall into the house with the door to blurt out something to put it bluntly."
+  },
+  {
+   "wav": "cv_southasian_m_sixties_19621726.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19621726.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "Marston also supported the two children of Olive Byrne as she legally adopted them."
+  },
+  {
+   "wav": "cv_southasian_m_sixties_23774654.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_23774654.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "Once one chooses the red or blue pill, the choice is irrevocable."
+  },
+  {
+   "wav": "cv_southasian_m_sixties_36453603.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_36453603.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "He grasped a thick aspen stick and kept his eyes fixed on the hole."
+  },
+  {
+   "wav": "cv_southasian_m_sixties_537339.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_537339.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "The boy became fearful; the omens told him that something was wrong."
+  },
+  {
+   "wav": "cv_southasian_m_sixties_588471.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_588471.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "sixties",
+   "sentence": "Don't try and lick that pole, your tongue will get stuck!"
+  },
+  {
+   "wav": "cv_southasian_m_thirties_19088.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_19088.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "Two boys in dark clothing talk to each other."
+  },
+  {
+   "wav": "cv_southasian_m_thirties_25260.wav",
+   "source": "Common Voice",
+   "clip": "common_voice_en_25260.mp3",
+   "region": "South Asian",
+   "gender": "male",
+   "age": "thirties",
+   "sentence": "It's because you were not born."
+  },
+  {
+   "wav": "ruio_doctor.wav",
+   "source": "author recording",
+   "clip": null,
+   "region": "American",
+   "gender": "male",
+   "age": "twenties",
+   "sentence": "Hi, how are you today? How are you feeling? Well, first of all, I wanted to thank you for taking the time and coming in. Eh… First of all, I will ask you some questions, I will introduce myself, and then I will proceed to ask you some questions about your background and your history. Eh... Afterward, I will ask a couple of questions about your chief complaints, about your symptoms, and how you are feeling right now. Eh… I will follow up with some additional questions that might get me some more information about your diagnosis. And, in the end, I will talk to my supervisor, I will discuss with him the things I found today, and I will get back to you afterwards with our conclusion. Do you have any questions now for me?"
+  }
+ ]
+}

@@ -1,0 +1,6287 @@
+{
+ "note": "Outpatient conditions per ICD-10 block, with WHO ICD-10 (2019) codes; contains no patient data.",
+ "conditions": [
+  {
+   "condition": "Routine supervision of first pregnancy, first trimester",
+   "icd10": "Z34.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Routine supervision of first pregnancy, second trimester",
+   "icd10": "Z34.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Routine supervision of first pregnancy, third trimester",
+   "icd10": "Z34.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Routine supervision of subsequent normal pregnancy, first trimester",
+   "icd10": "Z34.8",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Routine supervision of subsequent normal pregnancy, second trimester",
+   "icd10": "Z34.8",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Routine supervision of subsequent normal pregnancy, third trimester",
+   "icd10": "Z34.8",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Routine supervision of normal pregnancy, first trimester, pregnancy status otherwise unspecified",
+   "icd10": "Z34.9",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Routine supervision of normal pregnancy, second trimester, pregnancy status otherwise unspecified",
+   "icd10": "Z34.9",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Routine supervision of normal pregnancy, third trimester, pregnancy status otherwise unspecified",
+   "icd10": "Z34.9",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Pregnancy supervision after infertility, first trimester",
+   "icd10": "Z35.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Pregnancy supervision after infertility, second trimester",
+   "icd10": "Z35.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Pregnancy supervision with history of ectopic or molar pregnancy",
+   "icd10": "Z35.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Pregnancy supervision with other poor reproductive or obstetric history",
+   "icd10": "Z35.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Pregnancy supervision with insufficient antenatal care",
+   "icd10": "Z35.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Pregnancy supervision with grand multiparity",
+   "icd10": "Z35.4",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Elderly multigravida pregnancy supervision, first trimester",
+   "icd10": "Z35.8",
+   "sex": "female",
+   "age_min": 35,
+   "age_max": 45,
+   "stages": [
+    "first"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Elderly multigravida pregnancy supervision, second trimester",
+   "icd10": "Z35.8",
+   "sex": "female",
+   "age_min": 35,
+   "age_max": 45,
+   "stages": [
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Pregnancy supervision due to social problems",
+   "icd10": "Z35.7",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Pregnancy supervision for other specified high-risk pregnancy",
+   "icd10": "Z35.8",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Pregnancy supervision for unspecified high-risk pregnancy",
+   "icd10": "Z35.9",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "Z34,"
+  },
+  {
+   "condition": "Threatened miscarriage",
+   "icd10": "O20.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O00-O08"
+  },
+  {
+   "condition": "Bleeding in early pregnancy, unspecified",
+   "icd10": "O20.9",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O00-O08"
+  },
+  {
+   "condition": "Other hemorrhage in early pregnancy",
+   "icd10": "O20.8",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O00-O08"
+  },
+  {
+   "condition": "Missed miscarriage",
+   "icd10": "O02.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O00-O08"
+  },
+  {
+   "condition": "Anembryonic pregnancy",
+   "icd10": "O02.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O00-O08"
+  },
+  {
+   "condition": "Abnormal products of conception, unspecified",
+   "icd10": "O02.9",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O00-O08"
+  },
+  {
+   "condition": "Incomplete spontaneous miscarriage without complication",
+   "icd10": "O03.4",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O00-O08"
+  },
+  {
+   "condition": "Complete spontaneous miscarriage without complication",
+   "icd10": "O03.9",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O00-O08"
+  },
+  {
+   "condition": "Spontaneous miscarriage with other or unspecified complication",
+   "icd10": "O03.8",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O00-O08"
+  },
+  {
+   "condition": "Complete induced abortion without complication",
+   "icd10": "O04.9",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O00-O08"
+  },
+  {
+   "condition": "Incomplete induced abortion without complication",
+   "icd10": "O04.4",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O00-O08"
+  },
+  {
+   "condition": "Failed attempted termination without complication",
+   "icd10": "O07.4",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O00-O08"
+  },
+  {
+   "condition": "Tubal ectopic pregnancy",
+   "icd10": "O00.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O00-O08"
+  },
+  {
+   "condition": "Hydatidiform mole, unspecified",
+   "icd10": "O01.9",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O00-O08"
+  },
+  {
+   "condition": "Partial hydatidiform mole",
+   "icd10": "O01.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O00-O08"
+  },
+  {
+   "condition": "Pre-existing essential hypertension complicating pregnancy",
+   "icd10": "O10.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O10-O16"
+  },
+  {
+   "condition": "Pre-existing hypertensive heart disease complicating pregnancy",
+   "icd10": "O10.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O10-O16"
+  },
+  {
+   "condition": "Pre-existing hypertensive renal disease complicating pregnancy",
+   "icd10": "O10.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O10-O16"
+  },
+  {
+   "condition": "Pre-existing hypertensive heart and renal disease complicating pregnancy",
+   "icd10": "O10.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O10-O16"
+  },
+  {
+   "condition": "Pre-existing secondary hypertension complicating pregnancy",
+   "icd10": "O10.4",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O10-O16"
+  },
+  {
+   "condition": "Unspecified pre-existing hypertension complicating pregnancy",
+   "icd10": "O10.9",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O10-O16"
+  },
+  {
+   "condition": "Pre-existing hypertension with superimposed pre-eclampsia",
+   "icd10": "O11",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O10-O16"
+  },
+  {
+   "condition": "Gestational edema",
+   "icd10": "O12.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O10-O16"
+  },
+  {
+   "condition": "Gestational proteinuria",
+   "icd10": "O12.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O10-O16"
+  },
+  {
+   "condition": "Gestational edema with proteinuria",
+   "icd10": "O12.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O10-O16"
+  },
+  {
+   "condition": "Gestational hypertension without significant proteinuria",
+   "icd10": "O13",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O10-O16"
+  },
+  {
+   "condition": "Mild to moderate pre-eclampsia",
+   "icd10": "O14.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O10-O16"
+  },
+  {
+   "condition": "Severe pre-eclampsia, including outpatient follow-up after stabilization",
+   "icd10": "O14.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O10-O16"
+  },
+  {
+   "condition": "Unspecified pre-eclampsia",
+   "icd10": "O14.9",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O10-O16"
+  },
+  {
+   "condition": "Unspecified maternal hypertension complicating pregnancy",
+   "icd10": "O16",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O10-O16"
+  },
+  {
+   "condition": "Nausea and vomiting of pregnancy",
+   "icd10": "O21.9",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Mild hyperemesis gravidarum",
+   "icd10": "O21.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Late vomiting of pregnancy",
+   "icd10": "O21.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Lower-extremity varicose veins in pregnancy",
+   "icd10": "O22.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Vulvar varices in pregnancy",
+   "icd10": "O22.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Superficial thrombophlebitis in pregnancy",
+   "icd10": "O22.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Hemorrhoids in pregnancy",
+   "icd10": "O22.4",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Cystitis in pregnancy",
+   "icd10": "O23.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Urethritis in pregnancy",
+   "icd10": "O23.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Urinary tract infection in pregnancy, unspecified site",
+   "icd10": "O23.4",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Genital tract infection in pregnancy",
+   "icd10": "O23.5",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Gestational diabetes mellitus",
+   "icd10": "O24.4",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Type 1 diabetes mellitus in pregnancy",
+   "icd10": "O24.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Type 2 diabetes mellitus in pregnancy",
+   "icd10": "O24.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Unspecified pre-existing diabetes mellitus in pregnancy",
+   "icd10": "O24.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Malnutrition in pregnancy",
+   "icd10": "O25",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Excessive weight gain in pregnancy",
+   "icd10": "O26.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Inadequate weight gain in pregnancy",
+   "icd10": "O26.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Pregnancy care for recurrent pregnancy loss",
+   "icd10": "O26.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Pregnancy care following infertility treatment",
+   "icd10": "Z35.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Maternal hypotension syndrome",
+   "icd10": "O26.5",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Pregnancy-related liver disorder",
+   "icd10": "O26.6",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Pregnancy-related pelvic joint pain",
+   "icd10": "O26.7",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Pregnancy-related back pain",
+   "icd10": "O26.8",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Abnormal hematological finding on antenatal screening",
+   "icd10": "O28.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Abnormal biochemical finding on antenatal screening",
+   "icd10": "O28.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Abnormal ultrasound finding on antenatal screening",
+   "icd10": "O28.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Abnormal chromosomal finding on antenatal screening",
+   "icd10": "O28.5",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Other abnormal antenatal screening finding",
+   "icd10": "O28.8",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O20-O29"
+  },
+  {
+   "condition": "Twin pregnancy",
+   "icd10": "O30.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Triplet pregnancy",
+   "icd10": "O30.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Twin-to-twin transfusion syndrome",
+   "icd10": "O43.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Breech presentation",
+   "icd10": "O32.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Transverse lie",
+   "icd10": "O32.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Unstable fetal lie",
+   "icd10": "O32.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Face or brow presentation",
+   "icd10": "O32.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Suspected fetopelvic disproportion",
+   "icd10": "O33.9",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Maternal care for pelvic deformity affecting pregnancy",
+   "icd10": "O33.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Maternal care for previous cesarean scar",
+   "icd10": "O34.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Suspected fetal structural abnormality",
+   "icd10": "O35.9",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Suspected fetal chromosomal abnormality",
+   "icd10": "O35.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Fetal growth restriction",
+   "icd10": "O36.5",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Excessive fetal growth",
+   "icd10": "O36.6",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Reduced fetal movements",
+   "icd10": "O36.8",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Rh alloimmunization affecting pregnancy",
+   "icd10": "O36.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Polyhydramnios",
+   "icd10": "O40",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Oligohydramnios",
+   "icd10": "O41.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Placenta previa",
+   "icd10": "O44",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Placental insufficiency",
+   "icd10": "O36.5",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Velamentous insertion of the umbilical cord",
+   "icd10": "O43.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Placenta accreta spectrum",
+   "icd10": "O43.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "False labor before 37 completed weeks",
+   "icd10": "O47.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "False labor at or after 37 completed weeks",
+   "icd10": "O47.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Prolonged pregnancy",
+   "icd10": "O48",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O30-O48"
+  },
+  {
+   "condition": "Routine postpartum follow-up",
+   "icd10": "Z39.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Care and examination of a lactating mother",
+   "icd10": "Z39.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Low milk supply (hypogalactia)",
+   "icd10": "O92.4",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Agalactia",
+   "icd10": "O92.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Suppressed lactation",
+   "icd10": "O92.5",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Cracked nipple associated with childbirth",
+   "icd10": "O92.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Retracted nipple associated with childbirth",
+   "icd10": "O92.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Nonpurulent mastitis associated with childbirth",
+   "icd10": "O91.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Nipple infection associated with childbirth",
+   "icd10": "O91.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Breast abscess associated with childbirth",
+   "icd10": "O91.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Other breast disorder associated with childbirth, such as engorgement",
+   "icd10": "O92.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Galactorrhea associated with childbirth",
+   "icd10": "O92.6",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Disruption of cesarean section wound",
+   "icd10": "O90.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Disruption of perineal obstetric wound",
+   "icd10": "O90.1",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Infection of obstetric surgical wound",
+   "icd10": "O86.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Urinary tract infection following delivery",
+   "icd10": "O86.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Hemorrhoids in the puerperium",
+   "icd10": "O87.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Puerperal mood disturbance",
+   "icd10": "F53.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Anemia of the puerperium",
+   "icd10": "O99.0",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Puerperal thyroiditis",
+   "icd10": "O90.5",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O85-O92,"
+  },
+  {
+   "condition": "Hypothyroidism complicating pregnancy",
+   "icd10": "O99.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Hyperthyroidism complicating pregnancy",
+   "icd10": "O99.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Thyroid nodule complicating pregnancy",
+   "icd10": "O99.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Adrenal insufficiency complicating pregnancy",
+   "icd10": "O99.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Hyperparathyroidism complicating pregnancy",
+   "icd10": "O99.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Obesity complicating pregnancy",
+   "icd10": "O99.2",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Asthma complicating pregnancy",
+   "icd10": "O99.5",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Obstructive sleep apnea complicating pregnancy",
+   "icd10": "O99.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Depression complicating pregnancy",
+   "icd10": "O99.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Anxiety disorder complicating pregnancy",
+   "icd10": "O99.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Bipolar disorder complicating pregnancy",
+   "icd10": "O99.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Post-traumatic stress disorder complicating pregnancy",
+   "icd10": "O99.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Obsessive-compulsive disorder complicating pregnancy",
+   "icd10": "O99.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Schizophrenia complicating pregnancy",
+   "icd10": "O99.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Attention-deficit/hyperactivity disorder complicating pregnancy",
+   "icd10": "O99.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Eating disorder complicating pregnancy",
+   "icd10": "O99.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Epilepsy complicating pregnancy",
+   "icd10": "O99.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Migraine complicating pregnancy",
+   "icd10": "O99.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Multiple sclerosis complicating pregnancy",
+   "icd10": "O99.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Myasthenia gravis complicating pregnancy",
+   "icd10": "O99.3",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Congenital heart disease complicating pregnancy",
+   "icd10": "O99.8",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Valvular heart disease complicating pregnancy",
+   "icd10": "O99.4",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Supraventricular tachycardia complicating pregnancy",
+   "icd10": "O99.4",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Cardiomyopathy complicating pregnancy",
+   "icd10": "O99.4",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Coronary artery disease complicating pregnancy",
+   "icd10": "O99.4",
+   "sex": "female",
+   "age_min": 18,
+   "age_max": 45,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "obstetrics",
+   "icd_block": "O94-O99"
+  },
+  {
+   "condition": "Primary generalized osteoarthritis",
+   "icd10": "M15.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Erosive osteoarthritis of the hand",
+   "icd10": "M15.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Primary osteoarthritis of the right hip",
+   "icd10": "M16.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Post-traumatic osteoarthritis of the left hip",
+   "icd10": "M16.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Primary osteoarthritis of the right knee",
+   "icd10": "M17.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Bilateral post-traumatic osteoarthritis of the knees",
+   "icd10": "M17.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Primary osteoarthritis of both first carpometacarpal joints",
+   "icd10": "M18.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Primary osteoarthritis of the right shoulder",
+   "icd10": "M19.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Primary osteoarthritis of the right hand",
+   "icd10": "M19.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Primary osteoarthritis of the right ankle and foot",
+   "icd10": "M19.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Acquired hallux valgus of the right foot",
+   "icd10": "M20.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Hallux rigidus of the right foot",
+   "icd10": "M20.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Hammer toe of the right foot",
+   "icd10": "M20.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Acquired claw toe deformity of the left foot",
+   "icd10": "M20.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Mallet finger of the right hand",
+   "icd10": "M20.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Swan-neck deformity of the right fingers",
+   "icd10": "M20.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Bunionette of the right foot",
+   "icd10": "M21.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Acquired pes planus of the right foot",
+   "icd10": "M21.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Patellofemoral disorder of the right knee",
+   "icd10": "M22.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Chondromalacia patellae of the right knee",
+   "icd10": "M22.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Recurrent dislocation of the right patella",
+   "icd10": "M22.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Unspecified internal derangement of the right knee",
+   "icd10": "M23.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Loose body in the right knee",
+   "icd10": "M23.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Chronic instability of the right knee",
+   "icd10": "M23.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Contracture of the right knee",
+   "icd10": "M24.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Loose body in the right shoulder",
+   "icd10": "M24.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Effusion of the right knee",
+   "icd10": "M25.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Right knee pain",
+   "icd10": "M25.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Right shoulder pain",
+   "icd10": "M25.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Stiffness of the right ankle",
+   "icd10": "M25.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M15-M19"
+  },
+  {
+   "condition": "Neck pain (cervicalgia)",
+   "icd10": "M54.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Low back pain",
+   "icd10": "M54.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Thoracic back pain",
+   "icd10": "M54.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Unspecified back pain (dorsalgia)",
+   "icd10": "M54.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Cervical radiculopathy",
+   "icd10": "M54.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Lumbar radiculopathy",
+   "icd10": "M54.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Lumbosacral radiculopathy",
+   "icd10": "M54.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Sciatica",
+   "icd10": "M54.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Low back pain with sciatica",
+   "icd10": "M54.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Postural thoracic kyphosis",
+   "icd10": "M40.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Lumbar spinal stenosis",
+   "icd10": "M48.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Cervical spinal stenosis",
+   "icd10": "M48.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Lumbar disc degeneration",
+   "icd10": "M51.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Lumbar disc herniation",
+   "icd10": "M51.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Lumbar disc disorder with radiculopathy",
+   "icd10": "M51.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Cervical disc degeneration",
+   "icd10": "M50.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Cervical disc herniation",
+   "icd10": "M50.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Cervical spondylosis",
+   "icd10": "M47.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Lumbar spondylosis",
+   "icd10": "M47.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Lumbar spondylolisthesis",
+   "icd10": "M43.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Lumbar spondylolysis",
+   "icd10": "M43.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Scoliosis, unspecified",
+   "icd10": "M41.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Other idiopathic scoliosis, lumbar region",
+   "icd10": "M41.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Sacroiliac joint disorder",
+   "icd10": "M53.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Sacroiliitis",
+   "icd10": "M46.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M40-M54"
+  },
+  {
+   "condition": "Rotator cuff tendinopathy",
+   "icd10": "M75.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Shoulder impingement syndrome",
+   "icd10": "M75.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Adhesive capsulitis",
+   "icd10": "M75.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Calcific tendinitis of shoulder",
+   "icd10": "M75.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Biceps tendinitis",
+   "icd10": "M75.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Shoulder bursitis",
+   "icd10": "M75.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Lateral epicondylitis",
+   "icd10": "M77.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Medial epicondylitis",
+   "icd10": "M77.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Olecranon bursitis",
+   "icd10": "M70.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "De Quervain tenosynovitis",
+   "icd10": "M65.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Trigger finger",
+   "icd10": "M65.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Carpal tunnel syndrome",
+   "icd10": "G56.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Wrist tenosynovitis",
+   "icd10": "M65.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Wrist ganglion cyst",
+   "icd10": "M67.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Dupuytren contracture",
+   "icd10": "M72.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Plantar fasciitis",
+   "icd10": "M72.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Achilles tendinopathy",
+   "icd10": "M76.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Patellar tendinitis",
+   "icd10": "M76.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Pes anserine bursitis",
+   "icd10": "M70.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Prepatellar bursitis",
+   "icd10": "M70.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Trochanteric bursitis",
+   "icd10": "M70.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Iliotibial band syndrome",
+   "icd10": "M76.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Gluteal tendinitis",
+   "icd10": "M76.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Peroneal tendinitis",
+   "icd10": "M76.7",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Psoas tendinitis",
+   "icd10": "M76.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Metatarsalgia",
+   "icd10": "M77.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Calcaneal spur",
+   "icd10": "M77.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Popliteal (Baker) cyst",
+   "icd10": "M71.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Ischial bursitis",
+   "icd10": "M70.7",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Muscle spasm",
+   "icd10": "M62.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Myalgia",
+   "icd10": "M79.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Myofascial pain",
+   "icd10": "M79.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Muscle contracture",
+   "icd10": "M62.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Fibromyalgia",
+   "icd10": "M79.7",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Other enthesopathy of foot and ankle",
+   "icd10": "M77.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M60-M79"
+  },
+  {
+   "condition": "Age-related osteoporosis with current pathological fracture",
+   "icd10": "M80.8",
+   "sex": "any",
+   "age_min": 50,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M80-M94"
+  },
+  {
+   "condition": "Other osteoporosis with current pathological fracture",
+   "icd10": "M80.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M80-M94"
+  },
+  {
+   "condition": "Age-related osteoporosis without current pathological fracture",
+   "icd10": "M81.8",
+   "sex": "any",
+   "age_min": 50,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M80-M94"
+  },
+  {
+   "condition": "Osteopenia",
+   "icd10": "M85.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M80-M94"
+  },
+  {
+   "condition": "Stress fracture",
+   "icd10": "M84.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M80-M94"
+  },
+  {
+   "condition": "Pathological fracture not elsewhere classified",
+   "icd10": "M84.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M80-M94"
+  },
+  {
+   "condition": "Idiopathic osteonecrosis of bone",
+   "icd10": "M87.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M80-M94"
+  },
+  {
+   "condition": "Osteonecrosis due to drugs",
+   "icd10": "M87.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M80-M94"
+  },
+  {
+   "condition": "Osteonecrosis, unspecified",
+   "icd10": "M87.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M80-M94"
+  },
+  {
+   "condition": "Adult osteomalacia",
+   "icd10": "M83.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M80-M94"
+  },
+  {
+   "condition": "Paget disease of bone",
+   "icd10": "M88.9",
+   "sex": "any",
+   "age_min": 40,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M80-M94"
+  },
+  {
+   "condition": "Patellofemoral pain disorder",
+   "icd10": "M22.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 65,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M80-M94"
+  },
+  {
+   "condition": "Chondromalacia patellae",
+   "icd10": "M22.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 65,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "M80-M94"
+  },
+  {
+   "condition": "Osgood-Schlatter disease",
+   "icd10": "M92.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 35,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M80-M94"
+  },
+  {
+   "condition": "Osteochondritis dissecans",
+   "icd10": "M93.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 50,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "M80-M94"
+  },
+  {
+   "condition": "Proximal humerus fracture",
+   "icd10": "S42.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Clavicle fracture",
+   "icd10": "S42.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Humeral shaft fracture",
+   "icd10": "S42.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Distal humerus fracture",
+   "icd10": "S42.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Scapula fracture",
+   "icd10": "S42.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Shoulder dislocation",
+   "icd10": "S43.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Acromioclavicular joint separation",
+   "icd10": "S43.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Shoulder joint sprain",
+   "icd10": "S43.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Rotator cuff tendon injury",
+   "icd10": "S46.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Long head of biceps tendon injury",
+   "icd10": "S46.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Radial head fracture",
+   "icd10": "S52.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Olecranon fracture",
+   "icd10": "S52.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Distal radius fracture",
+   "icd10": "S52.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Distal ulna fracture",
+   "icd10": "S52.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Both-bone forearm fracture",
+   "icd10": "S52.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Elbow dislocation",
+   "icd10": "S53.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Elbow sprain",
+   "icd10": "S53.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Scaphoid fracture",
+   "icd10": "S62.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Triquetral fracture",
+   "icd10": "S62.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Metacarpal fracture",
+   "icd10": "S62.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Thumb phalanx fracture",
+   "icd10": "S62.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Other finger phalanx fracture",
+   "icd10": "S62.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Wrist sprain",
+   "icd10": "S63.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Finger sprain",
+   "icd10": "S63.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Thumb metacarpophalangeal ulnar collateral ligament sprain",
+   "icd10": "S63.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Finger volar plate injury",
+   "icd10": "S63.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Finger flexor tendon injury",
+   "icd10": "S66.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Thumb extensor tendon injury",
+   "icd10": "S66.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Finger extensor tendon injury",
+   "icd10": "S66.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Distal biceps tendon tear",
+   "icd10": "S46.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S42-S69"
+  },
+  {
+   "condition": "Femoral neck fracture",
+   "icd10": "S72.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Intertrochanteric femur fracture",
+   "icd10": "S72.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Subtrochanteric femur fracture",
+   "icd10": "S72.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Femoral shaft fracture",
+   "icd10": "S72.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Distal femur fracture",
+   "icd10": "S72.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Patella fracture",
+   "icd10": "S82.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Tibial plateau fracture",
+   "icd10": "S82.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Tibial shaft fracture",
+   "icd10": "S82.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Fibular shaft fracture",
+   "icd10": "S82.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Lateral malleolus fracture",
+   "icd10": "S82.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Bimalleolar ankle fracture",
+   "icd10": "S82.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Calcaneal fracture",
+   "icd10": "S92.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Metatarsal fracture",
+   "icd10": "S92.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Fifth metatarsal base fracture",
+   "icd10": "S92.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Toe phalanx fracture",
+   "icd10": "S92.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Anterior cruciate ligament tear",
+   "icd10": "S83.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Posterior cruciate ligament tear",
+   "icd10": "S83.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Medial collateral ligament sprain of knee",
+   "icd10": "S83.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Lateral collateral ligament sprain of knee",
+   "icd10": "S83.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Meniscal tear",
+   "icd10": "S83.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Patellar dislocation",
+   "icd10": "S83.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Lateral ankle ligament sprain",
+   "icd10": "S93.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Syndesmotic ankle sprain",
+   "icd10": "S93.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Deltoid ligament sprain of ankle",
+   "icd10": "S93.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Lisfranc ligament sprain",
+   "icd10": "S93.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Achilles tendon rupture",
+   "icd10": "S86.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Hamstring strain",
+   "icd10": "S76.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Quadriceps strain",
+   "icd10": "S76.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Hip flexor strain",
+   "icd10": "S76.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Adductor muscle strain",
+   "icd10": "S76.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Calf muscle strain",
+   "icd10": "S86.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Peroneal tendon injury",
+   "icd10": "S86.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Toe extensor tendon injury",
+   "icd10": "S96.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Knee contusion",
+   "icd10": "S80.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Ankle contusion",
+   "icd10": "S90.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S72-S99"
+  },
+  {
+   "condition": "Whiplash-associated neck sprain",
+   "icd10": "S13.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S12-S39"
+  },
+  {
+   "condition": "Cervical muscle strain",
+   "icd10": "S16",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S12-S39"
+  },
+  {
+   "condition": "Cervical vertebral fracture",
+   "icd10": "S12.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S12-S39"
+  },
+  {
+   "condition": "Thoracic vertebral compression fracture",
+   "icd10": "S22.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S12-S39"
+  },
+  {
+   "condition": "Lumbar vertebral compression fracture",
+   "icd10": "S32.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S12-S39"
+  },
+  {
+   "condition": "Rib fracture",
+   "icd10": "S22.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S12-S39"
+  },
+  {
+   "condition": "Sternal fracture",
+   "icd10": "S22.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S12-S39"
+  },
+  {
+   "condition": "Thoracic spine sprain",
+   "icd10": "S23.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S12-S39"
+  },
+  {
+   "condition": "Lumbar spine sprain",
+   "icd10": "S33.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S12-S39"
+  },
+  {
+   "condition": "Lower back muscle strain",
+   "icd10": "S39.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S12-S39"
+  },
+  {
+   "condition": "Sacroiliac joint sprain",
+   "icd10": "S33.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S12-S39"
+  },
+  {
+   "condition": "Sacral fracture",
+   "icd10": "S32.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S12-S39"
+  },
+  {
+   "condition": "Coccyx fracture",
+   "icd10": "S32.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S12-S39"
+  },
+  {
+   "condition": "Pubic ramus fracture",
+   "icd10": "S32.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "orthopedics",
+   "icd_block": "S12-S39"
+  },
+  {
+   "condition": "Traumatic lumbar disc injury",
+   "icd10": "S33.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "orthopedics",
+   "icd_block": "S12-S39"
+  },
+  {
+   "condition": "Seropositive rheumatoid arthritis, unspecified",
+   "icd10": "M05.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Rheumatoid arthritis with rheumatoid lung disease",
+   "icd10": "M05.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Seronegative rheumatoid arthritis",
+   "icd10": "M06.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Rheumatoid arthritis, unspecified",
+   "icd10": "M06.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Adult-onset Still disease",
+   "icd10": "M06.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Rheumatoid bursitis",
+   "icd10": "M06.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Rheumatoid nodule",
+   "icd10": "M06.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Inflammatory polyarthropathy",
+   "icd10": "M06.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Other specified rheumatoid arthritis",
+   "icd10": "M06.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Psoriatic arthritis, other type",
+   "icd10": "M07.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Distal interphalangeal psoriatic arthritis",
+   "icd10": "M07.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Psoriatic spondylitis",
+   "icd10": "M07.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Arthritis mutilans",
+   "icd10": "M07.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Crohn disease-associated arthropathy",
+   "icd10": "M07.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Ulcerative colitis-associated arthropathy",
+   "icd10": "M07.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Juvenile rheumatoid arthritis persisting into adulthood",
+   "icd10": "M08.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Juvenile polyarthritis persisting into adulthood",
+   "icd10": "M08.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Pauciarticular juvenile arthritis persisting into adulthood",
+   "icd10": "M08.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Idiopathic gout",
+   "icd10": "M10.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Drug-induced gout",
+   "icd10": "M10.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Gout due to renal impairment",
+   "icd10": "M10.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Other secondary gout",
+   "icd10": "M10.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Gout, unspecified",
+   "icd10": "M10.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Hydroxyapatite deposition disease",
+   "icd10": "M11.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Other chondrocalcinosis",
+   "icd10": "M11.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Other specified crystal arthropathy",
+   "icd10": "M11.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Crystal arthropathy, unspecified",
+   "icd10": "M11.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Palindromic rheumatism",
+   "icd10": "M12.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Polyarthritis, unspecified",
+   "icd10": "M13.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Monoarthritis, not elsewhere classified",
+   "icd10": "M13.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M05-M14"
+  },
+  {
+   "condition": "Systemic lupus erythematosus",
+   "icd10": "M32.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Drug-induced lupus erythematosus",
+   "icd10": "M32.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Other forms of systemic lupus erythematosus",
+   "icd10": "M32.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Sjögren syndrome",
+   "icd10": "M35.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Mixed connective tissue disease",
+   "icd10": "M35.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Undifferentiated connective tissue disease",
+   "icd10": "M35.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Behçet disease",
+   "icd10": "M35.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Polymyalgia rheumatica",
+   "icd10": "M35.3",
+   "sex": "any",
+   "age_min": 50,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Eosinophilic fasciitis",
+   "icd10": "M35.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Multifocal fibrosclerosis",
+   "icd10": "M35.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Recurrent panniculitis",
+   "icd10": "M35.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Joint hypermobility syndrome",
+   "icd10": "M35.7",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Other specified systemic involvement of connective tissue",
+   "icd10": "M35.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Diffuse systemic sclerosis",
+   "icd10": "M34.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Limited systemic sclerosis (CREST syndrome)",
+   "icd10": "M34.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Drug-induced systemic sclerosis",
+   "icd10": "M34.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Other systemic sclerosis",
+   "icd10": "M34.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Systemic sclerosis, unspecified",
+   "icd10": "M34.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Dermatomyositis",
+   "icd10": "M33.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Polymyositis",
+   "icd10": "M33.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Dermatomyositis or polymyositis, unspecified",
+   "icd10": "M33.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Granulomatosis with polyangiitis",
+   "icd10": "M31.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Takayasu arteritis",
+   "icd10": "M31.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Giant cell arteritis",
+   "icd10": "M31.6",
+   "sex": "any",
+   "age_min": 50,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Microscopic polyangiitis",
+   "icd10": "M31.7",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Polyarteritis nodosa",
+   "icd10": "M30.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Eosinophilic granulomatosis with polyangiitis",
+   "icd10": "M30.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Cutaneous small-vessel vasculitis",
+   "icd10": "M31.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Other giant cell arteritis",
+   "icd10": "M31.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Other necrotizing vasculopathies",
+   "icd10": "M31.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Vasculitis, unspecified",
+   "icd10": "M31.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Other conditions related to polyarteritis nodosa",
+   "icd10": "M30.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Polyarteritis nodosa, unspecified",
+   "icd10": "M30.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Kawasaki disease follow-up",
+   "icd10": "M30.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Myositis associated with neoplastic disease",
+   "icd10": "M36.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Arthropathy associated with neoplastic disease",
+   "icd10": "M36.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M30-M36"
+  },
+  {
+   "condition": "Ankylosing spondylitis",
+   "icd10": "M45",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M45-M49"
+  },
+  {
+   "condition": "Non-radiographic axial spondyloarthritis",
+   "icd10": "M46.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M45-M49"
+  },
+  {
+   "condition": "Sacroiliitis",
+   "icd10": "M46.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M45-M49"
+  },
+  {
+   "condition": "Spinal enthesopathy",
+   "icd10": "M46.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M45-M49"
+  },
+  {
+   "condition": "Enteropathic spondylitis",
+   "icd10": "M49.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M45-M49"
+  },
+  {
+   "condition": "Spondylosis, unspecified",
+   "icd10": "M47.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M45-M49"
+  },
+  {
+   "condition": "Cervical spondylosis with radiculopathy",
+   "icd10": "M47.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M45-M49"
+  },
+  {
+   "condition": "Lumbar spondylosis with radiculopathy",
+   "icd10": "M47.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M45-M49"
+  },
+  {
+   "condition": "Cervical spondylosis with myelopathy",
+   "icd10": "M47.1",
+   "sex": "any",
+   "age_min": 30,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M45-M49"
+  },
+  {
+   "condition": "Lumbar spondylosis with myelopathy",
+   "icd10": "M47.1",
+   "sex": "any",
+   "age_min": 30,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M45-M49"
+  },
+  {
+   "condition": "Diffuse idiopathic skeletal hyperostosis (DISH)",
+   "icd10": "M48.1",
+   "sex": "any",
+   "age_min": 40,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M45-M49"
+  },
+  {
+   "condition": "Spinal stenosis",
+   "icd10": "M48.0",
+   "sex": "any",
+   "age_min": 30,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M45-M49"
+  },
+  {
+   "condition": "Baastrup disease (kissing spine)",
+   "icd10": "M48.2",
+   "sex": "any",
+   "age_min": 40,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M45-M49"
+  },
+  {
+   "condition": "Vertebral fatigue fracture",
+   "icd10": "M48.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M45-M49"
+  },
+  {
+   "condition": "Collapsed vertebra, not elsewhere classified",
+   "icd10": "M48.5",
+   "sex": "any",
+   "age_min": 40,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M45-M49"
+  },
+  {
+   "condition": "Fibromyalgia",
+   "icd10": "M79.7",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M79,"
+  },
+  {
+   "condition": "Myalgia",
+   "icd10": "M79.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M79,"
+  },
+  {
+   "condition": "Myofascial pain syndrome",
+   "icd10": "M79.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M79,"
+  },
+  {
+   "condition": "Neuralgia or neuritis, unspecified",
+   "icd10": "M79.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M79,"
+  },
+  {
+   "condition": "Panniculitis, not elsewhere classified",
+   "icd10": "M79.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M79,"
+  },
+  {
+   "condition": "Hand pain",
+   "icd10": "M79.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M79,"
+  },
+  {
+   "condition": "Foot pain",
+   "icd10": "M79.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M79,"
+  },
+  {
+   "condition": "Other specified soft-tissue disorder",
+   "icd10": "M79.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M79,"
+  },
+  {
+   "condition": "Age-related osteoporosis without current pathological fracture",
+   "icd10": "M81.8",
+   "sex": "any",
+   "age_min": 50,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M79,"
+  },
+  {
+   "condition": "Other osteoporosis without current pathological fracture",
+   "icd10": "M81.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M79,"
+  },
+  {
+   "condition": "Localized osteoporosis without current pathological fracture",
+   "icd10": "M81.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M79,"
+  },
+  {
+   "condition": "Osteoporosis, unspecified, without current pathological fracture",
+   "icd10": "M81.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M79,"
+  },
+  {
+   "condition": "Sjögren syndrome, unspecified",
+   "icd10": "M35.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M79,"
+  },
+  {
+   "condition": "Sjögren syndrome with keratoconjunctivitis",
+   "icd10": "M35.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M79,"
+  },
+  {
+   "condition": "Sjögren syndrome with lung involvement",
+   "icd10": "M35.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M79,"
+  },
+  {
+   "condition": "Sjögren syndrome with inflammatory arthritis",
+   "icd10": "M35.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M79,"
+  },
+  {
+   "condition": "Multiple joint pain",
+   "icd10": "M25.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Shoulder joint pain",
+   "icd10": "M25.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Hand joint pain",
+   "icd10": "M25.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Hip joint pain",
+   "icd10": "M25.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Knee joint pain",
+   "icd10": "M25.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Ankle or foot joint pain",
+   "icd10": "M25.5",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Joint stiffness",
+   "icd10": "M25.6",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Joint effusion",
+   "icd10": "M25.4",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Joint instability",
+   "icd10": "M25.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Hemarthrosis",
+   "icd10": "M25.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Septic arthritis follow-up",
+   "icd10": "M00.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Reactive arthritis, unspecified",
+   "icd10": "M02.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Reiter syndrome",
+   "icd10": "M02.3",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Other reactive arthropathy",
+   "icd10": "M02.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Other postinfective arthropathy in a disease classified elsewhere",
+   "icd10": "M03.2",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Positive ANA test",
+   "icd10": "R76.0",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Positive rheumatoid factor",
+   "icd10": "R76.8",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Unspecified abnormal immunological finding in serum",
+   "icd10": "R76.9",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  },
+  {
+   "condition": "Abnormal globulin finding",
+   "icd10": "R77.1",
+   "sex": "any",
+   "age_min": 18,
+   "age_max": 85,
+   "stages": [
+    "first",
+    "follow"
+   ],
+   "frequency": "less_common",
+   "department": "rheumatology",
+   "icd_block": "M00-M03,"
+  }
+ ]
+}

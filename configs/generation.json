@@ -1,0 +1,136 @@
+{
+ "experiment_id": "SIMAX-FULL-VISIT",
+ "design": {
+  "constructs": [
+   "respect",
+   "flow",
+   "concerns",
+   "attentive",
+   "warmth"
+  ],
+  "levels": [
+   1,
+   2,
+   3
+  ],
+  "rubric": "configs/rubric_global.json",
+  "profile": "configs/dialogue_profile.json",
+  "label_specs": "configs/label_specs.json",
+  "wiser": {
+   "labels": [
+    "EO",
+    "ER",
+    "S",
+    "ES",
+    "OE",
+    "RS",
+    "EQ"
+   ],
+   "bands": [
+    "low",
+    "high"
+   ],
+   "high_count": {
+    "default": 10,
+    "S": 5,
+    "EQ": 4
+   }
+  },
+  "count_families": {
+   "patient": {
+    "labels": [
+     "AQ",
+     "AR"
+    ],
+    "bands": [
+     "low",
+     "high"
+    ],
+    "high_count": {
+     "default": 8
+    }
+   },
+   "sdoh_weight": {
+    "labels": [
+     "SD",
+     "W"
+    ],
+    "bands": [
+     "low",
+     "high"
+    ],
+    "high_count": {
+     "default": 5
+    }
+   },
+   "intervention": {
+    "labels": [
+     "ASK",
+     "ADVISED",
+     "ASSESS",
+     "ASSIST",
+     "ARRANGE"
+    ],
+    "bands": [
+     "low",
+     "high"
+    ],
+    "high_count": {
+     "default": 3,
+     "ASSESS": 5
+    },
+    "definitions": {
+     "ASK": "The clinician asks about the woman's current tobacco use: whether she smokes now and how much.",
+     "ADVISED": "The clinician advises the woman to quit smoking, or to cut down.",
+     "ASSESS": "The clinician assesses whether the woman wants to quit: future-oriented, concrete questions about what she is going to do about her smoking.",
+     "ASSIST": "Smoking cessation counseling that is not asking, advising, assessing or arranging: reinforcing her motivation and confidence, helping her set a quit date or a concrete goal, working through barriers and solutions, exploring her reasons.",
+     "ARRANGE": "The clinician schedules follow-up visits or phone calls to review progress toward quitting."
+    }
+   }
+  },
+  "blocks_per_label": 15,
+  "case_requirements": {
+   "intervention": [
+    "The patient currently smokes cigarettes; say how many a day."
+   ],
+   "SD": [
+    "The facts mention no financial, housing, employment, food, transport or insurance difficulties."
+   ],
+   "W": [
+    "The facts mention nothing about weight, diet, eating, body size or weight gain."
+   ]
+  },
+  "topic_profile": "configs/topic_profile.json",
+  "persona_plan": "configs/persona_plan.json",
+  "label_notes": {
+   "ES": {
+    "high": "Each instance is the doctor naming or acknowledging a feeling on their own initiative, with no emotion voiced by the patient in the few lines before it: do not write it as a reply to something the patient just said about how they feel (that would be a response, not this behavior). Put each where the doctor notices an emotion unprompted, for example while explaining a result or a plan, or at a quiet moment. The patient themselves says little about their feelings in this visit."
+   },
+   "SD": {
+    "low": "No work or job, money, housing, food, transport or insurance topic comes up anywhere in the visit, including the small talk and the practical matters: do not ask what the patient does for a living and do not mention work, school pickups, commuting or costs."
+   },
+   "ASSESS": {
+    "high": "Each instance is a question in its own turn about what she is going to do about her smoking in future (whether she wants to quit, a quit date, a first step, how ready she is), asked at a different point of the visit; never two in one turn."
+   }
+  }
+ },
+ "generation": {
+  "provider": "openai",
+  "model": "gpt-6-luna",
+  "temperature": 1.0,
+  "generation_seeds": [
+   11
+  ],
+  "max_tokens": 40000,
+  "max_retries": 1,
+  "workers": 160,
+  "reasoning_effort": "high"
+ },
+ "budget": {
+  "limit_usd": 1000.0,
+  "usd_per_1m_input_tokens": 0.1,
+  "usd_per_1m_output_tokens": 0.5,
+  "price_safety_factor": 1.2,
+  "price_note": "gpt-6-luna list price $0.10/$0.50 per 1M (2026-10)."
+ }
+}

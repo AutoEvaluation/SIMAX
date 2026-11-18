@@ -1,0 +1,99 @@
+{
+ "version": "dialogue-profile-template",
+ "instructions": "Template: replace every null with your own value before generating dialogues.",
+ "metrics": {
+  "turns": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  },
+  "words": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  },
+  "doctor_word_share": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  },
+  "doctor_median_turn_words": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  },
+  "patient_median_turn_words": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  },
+  "doctor_mean_turn_words": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  },
+  "patient_mean_turn_words": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  },
+  "short_turn_fraction": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  },
+  "long_turn_fraction": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  },
+  "doctor_question_rate": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  },
+  "patient_question_rate": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  },
+  "fillers_per_100_words": {
+   "q10": null,
+   "q25": null,
+   "median": null,
+   "q75": null,
+   "q90": null
+  }
+ },
+ "definitions": {
+  "short_turn_max_words": null,
+  "long_turn_min_words": null
+ },
+ "planning": {
+  "turn_count_low": "q25",
+  "turn_count_high": "q75",
+  "turn_tolerance": null
+ }
+}

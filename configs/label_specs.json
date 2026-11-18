@@ -1,0 +1,339 @@
+{
+ "version": "label-specs-v2",
+ "source": "codebooks/{global,wiser,intervention,patient,SDOHweight}.md",
+ "description": "Declarative registry of every label across the codebooks used in SIMAX. Each label records its side (doctor|patient|topic), target_kind (ordinal|count|presence), whether it needs a setup turn first, a verbatim definition quote from the codebook for prompt grounding, and (for count labels) low/high count bands. Ordinal labels (global constructs) use the three-point scale 1/2/3 defined in configs/rubric_global_3pt.json and configs/rubric_go_3pt.json; the codebook's 1-5 anchors collapse as 1 = codebook 1-2, 2 = 3, 3 = 4-5.",
+ "count_band_rule": "For count labels the low band is [0,1] and the high band is [3,5]. This is derived from the short-dialogue length policy (2-10 turns): a 'low' target means the behavior appears at most once, while a 'high' target means it appears several times (3-5) across the dialogue. The bands are deliberately coarse so the deterministic verifier can distinguish a sparse from a dense expression of the label.",
+ "families": {
+  "global": {
+   "labels": {
+    "flow": {
+     "side": "doctor",
+     "target_kind": "ordinal",
+     "needs_setup": false,
+     "definition": "How easily did the conversation flow between the obstetric clinician and patient?",
+     "levels": [
+      1,
+      2,
+      3
+     ]
+    },
+    "concerns": {
+     "side": "doctor",
+     "target_kind": "ordinal",
+     "needs_setup": true,
+     "definition": "How well did the obstetric clinician address patients concerns?",
+     "levels": [
+      1,
+      2,
+      3
+     ]
+    },
+    "attentive": {
+     "side": "doctor",
+     "target_kind": "ordinal",
+     "needs_setup": true,
+     "definition": "How engaged was the oncologist?",
+     "levels": [
+      1,
+      2,
+      3
+     ]
+    },
+    "warmth": {
+     "side": "doctor",
+     "target_kind": "ordinal",
+     "needs_setup": false,
+     "definition": "How warm do you think the clinician was overall?",
+     "levels": [
+      1,
+      2,
+      3
+     ]
+    },
+    "respect": {
+     "side": "doctor",
+     "target_kind": "ordinal",
+     "needs_setup": false,
+     "definition": "How much respect did the clinician convey to the patient?",
+     "levels": [
+      1,
+      2,
+      3
+     ]
+    }
+   }
+  },
+  "wiser": {
+   "labels": {
+    "EO": {
+     "side": "patient",
+     "target_kind": "count",
+     "needs_setup": false,
+     "definition": "An empathic opportunity is when the patient explicitly or implicitly expresses an emotion.",
+     "count_bands": {
+      "low": [
+       0,
+       1
+      ],
+      "high": [
+       3,
+       5
+      ]
+     }
+    },
+    "ER": {
+     "side": "doctor",
+     "target_kind": "count",
+     "needs_setup": true,
+     "definition": "A statement in response to an empathic opportunity (Clinician uses an “I wish” statement, names emotion, or otherwise explicitly acknowledges patient or caregiver emotion).",
+     "count_bands": {
+      "low": [
+       0,
+       1
+      ],
+      "high": [
+       3,
+       5
+      ]
+     }
+    },
+    "S": {
+     "side": "doctor",
+     "target_kind": "count",
+     "needs_setup": false,
+     "definition": "A clinician acknowledges emotion or potential emotion by saying “I’m sorry” without addressing the emotion or continuing the conversation",
+     "count_bands": {
+      "low": [
+       0,
+       1
+      ],
+      "high": [
+       3,
+       5
+      ]
+     }
+    },
+    "ES": {
+     "side": "doctor",
+     "target_kind": "count",
+     "needs_setup": false,
+     "definition": "An empathic statement is an acknowledgment of patient or caregiver emotion",
+     "count_bands": {
+      "low": [
+       0,
+       1
+      ],
+      "high": [
+       3,
+       5
+      ]
+     }
+    },
+    "OE": {
+     "side": "doctor",
+     "target_kind": "count",
+     "needs_setup": false,
+     "definition": "Clinician asks a question that cannot be answered with a yes or no.",
+     "count_bands": {
+      "low": [
+       0,
+       1
+      ],
+      "high": [
+       3,
+       5
+      ]
+     }
+    },
+    "RS": {
+     "side": "doctor",
+     "target_kind": "count",
+     "needs_setup": true,
+     "definition": "This category is meant to capture reflective listening statements made by the Clinician in response to patient statements",
+     "count_bands": {
+      "low": [
+       0,
+       1
+      ],
+      "high": [
+       3,
+       5
+      ]
+     }
+    },
+    "EQ": {
+     "side": "doctor",
+     "target_kind": "count",
+     "needs_setup": false,
+     "definition": "Anywhere in the encounter, the Clinician asks, “What questions do you have?”",
+     "count_bands": {
+      "low": [
+       0,
+       1
+      ],
+      "high": [
+       3,
+       5
+      ]
+     }
+    }
+   }
+  },
+  "intervention": {
+   "labels": {
+    "ASK": {
+     "side": "doctor",
+     "target_kind": "count",
+     "needs_setup": false,
+     "definition": "If the doctor is collecting data from the patient, this remains an `[ASK Start]`.",
+     "count_bands": {
+      "low": [
+       0,
+       1
+      ],
+      "high": [
+       3,
+       5
+      ]
+     }
+    },
+    "ADVISED": {
+     "side": "doctor",
+     "target_kind": "count",
+     "needs_setup": false,
+     "definition": "Clinician advises woman to quit.",
+     "count_bands": {
+      "low": [
+       0,
+       1
+      ],
+      "high": [
+       3,
+       5
+      ]
+     }
+    },
+    "ASSESS": {
+     "side": "doctor",
+     "target_kind": "count",
+     "needs_setup": false,
+     "definition": "Clinician assesses whether the woman wants to quit.",
+     "count_bands": {
+      "low": [
+       0,
+       1
+      ],
+      "high": [
+       3,
+       5
+      ]
+     }
+    },
+    "ASSIST": {
+     "side": "doctor",
+     "target_kind": "count",
+     "needs_setup": false,
+     "definition": "Any smoking cessation counseling that does not fall under the other 4 A’s",
+     "count_bands": {
+      "low": [
+       0,
+       1
+      ],
+      "high": [
+       3,
+       5
+      ]
+     }
+    },
+    "ARRANGE": {
+     "side": "doctor",
+     "target_kind": "count",
+     "needs_setup": false,
+     "definition": "Clinician schedules follow-up visits or phone calls to review progress toward quitting.",
+     "count_bands": {
+      "low": [
+       0,
+       1
+      ],
+      "high": [
+       3,
+       5
+      ]
+     }
+    }
+   }
+  },
+  "patient": {
+   "labels": {
+    "AQ": {
+     "side": "patient",
+     "target_kind": "count",
+     "needs_setup": false,
+     "definition": "Seek information and clarification” should be related to patient’s medical encounter, not rapport building",
+     "count_bands": {
+      "low": [
+       0,
+       1
+      ],
+      "high": [
+       3,
+       5
+      ]
+     }
+    },
+    "AR": {
+     "side": "patient",
+     "target_kind": "count",
+     "needs_setup": false,
+     "definition": "Offering opinions/making requests/introducing new topics/stating preferences/making recommendations/disagreeing, clarifying, or interrupting should be related to the patient’s medical encounter",
+     "count_bands": {
+      "low": [
+       0,
+       1
+      ],
+      "high": [
+       3,
+       5
+      ]
+     }
+    }
+   }
+  },
+  "sdoh_weight": {
+   "labels": {
+    "SD": {
+     "side": "topic",
+     "target_kind": "presence",
+     "needs_setup": false,
+     "definition": "code any time social determinants of health that are mentioned throughout the encounter",
+     "count_bands": {
+      "low": [
+       0,
+       1
+      ],
+      "high": [
+       3,
+       5
+      ]
+     }
+    },
+    "W": {
+     "side": "topic",
+     "target_kind": "presence",
+     "needs_setup": false,
+     "definition": "code any time weight is mentioned or discussed between the clinician and patient throughout the encounter",
+     "count_bands": {
+      "low": [
+       0,
+       1
+      ],
+      "high": [
+       3,
+       5
+      ]
+     }
+    }
+   }
+  }
+ }
+}

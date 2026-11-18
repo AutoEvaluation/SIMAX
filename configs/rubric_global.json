@@ -1,0 +1,175 @@
+{
+  "version": "rubric-global-3pt-v1-draft.1",
+  "source": "codebooks/global.md",
+  "source_sha256": "2ad6b8c237c33e676962529de821d9e03a80827ec434d0b0dfbdf28364a7625b",
+  "description": "Three-point operational scale for the five Global constructs. The obstetric codebook defines a 1-5 scale with anchors at every point; the 1/3/5 screening scale showed clear resolution only at two-step gaps and collapsed at the adjacent step (3v4 decided accuracy 0.879 but 45% of orders tied; MOSAIC abstained 102/120). This file collapses the instrument into three bands so that every adjacent pair in the scale is a two-step gap on the original instrument. Bands: 1 = codebook 1-2, 2 = codebook 3, 3 = codebook 4-5.",
+  "scale": {
+    "points": [1, 2, 3],
+    "merge_map": {
+      "1": [1, 2],
+      "2": [3],
+      "3": [4, 5]
+    },
+    "note": "Anchor text is a faithful merge of the merged codebook bands: each anchor reuses the verbatim codebook wording of the levels it spans and never introduces a clinical claim absent from codebooks/global.md. Every anchor records source_levels for traceability into the 5-point instrument.",
+    "supersedes": "rubric-global-v1 (configs/rubric_global.json, the compiled 1-5 view; kept frozen so runs recorded against its sha256 stay reconstructible)"
+  },
+  "constructs": {
+    "attentive": {
+      "name": "Attentive",
+      "definition": [
+        "How engaged was the oncologist?",
+        "Clinician remembers something from previous visit",
+        "Clinician is paying close attention to the patient",
+        "Not typing while the patient is talking",
+        "Example: One clear indicator is hearing the clinicians typing for a long time (more than a minute)",
+        "Example: The clinician is not hearing the patient because they are typing"
+      ],
+      "examples": [
+        "mmhmm"
+      ],
+      "anchors": {
+        "1": "Clinician seems distracted rather than engaged: they may spend much of the encounter typing, interrupt the patient, or say “mmhmm” throughout the encounter in a way that seems like they are not listening to the patient. There are instances in which they miss something the patient said — asking the same question that the patient already answered or making a comment that shows they did not hear the patient.",
+        "2": "Clinician seems to be listening and understanding most of the patient’s story, but do not repeat back much of what the patient is saying to show they are attending.",
+        "3": "Clinician seems in tune with patient and giving the patient their full attention: there are no instances where they forget something the patient said or repeat a question, and they repeat most of what the patient is saying back to them for clarity and understanding. They may even bring up things the patient had said in a prior encounter."
+      },
+      "anchor_provenance": {
+        "1": {
+          "source_levels": [1, 2]
+        },
+        "2": {
+          "source_levels": [3]
+        },
+        "3": {
+          "source_levels": [4, 5]
+        }
+      }
+    },
+    "concerns": {
+      "name": "Concerns",
+      "definition": [
+        "How well did the obstetric clinician address patients concerns?",
+        "When the clinician responds with empathy, that would indicate a better concerns score",
+        "Using NURSE or “I wish...” statements would indicate a better concerns score",
+        "Name It: “It sounds like you’ve been worried about what’s going on...”",
+        "Understand: “I know this may be hard.”",
+        "Reassurance (in response to an emotion): “You’ve showed a lot of strength in this situation with you mother.”",
+        "Support: “I’m going to be with you through this process.”",
+        "Explore: “Tell me more.” or “Can you tell me what you’re thinking?”",
+        "Concerns can be physical and/or emotional",
+        "Example: The clinician answers a concern with “you’re right, taking that new drug can make you tired. What other questions do you have?”"
+      ],
+      "examples": [
+        "I wish...",
+        "It sounds like you’ve been worried about what’s going on...",
+        "I know this may be hard.",
+        "You’ve showed a lot of strength in this situation with you mother.",
+        "I’m going to be with you through this process.",
+        "Tell me more.",
+        "Can you tell me what you’re thinking?",
+        "you’re right, taking that new drug can make you tired. What other questions do you have?"
+      ],
+      "anchors": {
+        "1": "Clinician gives little or no attention to the patient’s concerns and changes the topic, or makes only some attempts to address them while missing one or two clinical concerns. There are little to no attempts to address the patient’s emotional concerns.",
+        "2": "Clinician responds to patient’s clinical concerns and does so consistently. They miss a few emotional concerns.",
+        "3": "Clinician responds to and anticipates all patient concerns, and responds to most (if not all) patient concerns with empathy. At most they miss one or two emotional concerns or a few opportunities for empathic statements."
+      },
+      "anchor_provenance": {
+        "1": {
+          "source_levels": [1, 2]
+        },
+        "2": {
+          "source_levels": [3]
+        },
+        "3": {
+          "source_levels": [4, 5]
+        }
+      }
+    },
+    "flow": {
+      "name": "Flow",
+      "definition": [
+        "How easily did the conversation flow between the obstetric clinician and patient?",
+        "Should not count silence during an exam against the obstetric clinician’s score",
+        "Clinician controls most of the conversation; interrupts the patient but doesn’t respond to the patient in a way that hurries the conversation along",
+        "It may be hard to give good flow if the clinician is interrupting but doesn’t necessarily knock them on rushed"
+      ],
+      "examples": [],
+      "anchors": {
+        "1": "Conversation does not flow well: many awkward pauses, several instances of people talking over one another and cross-talk between the clinician and the patient. The conversation is choppy, with some periods of time when the clinician dominates the conversation.",
+        "2": "The clinician makes attempts to make the conversation flow, but there are still moments of awkwardness. This is an average conversation.",
+        "3": "Conversation flowed very well with good interchanges with appropriate silence in between speakers and no moments of awkwardness. Clinician lets patient talk for long passages without interrupting and asks probing questions to keep the patient talking."
+      },
+      "anchor_provenance": {
+        "1": {
+          "source_levels": [1, 2]
+        },
+        "2": {
+          "source_levels": [3]
+        },
+        "3": {
+          "source_levels": [4, 5]
+        }
+      }
+    },
+    "respect": {
+      "name": "Respect",
+      "definition": [
+        "How much respect did the clinician convey to the patient?",
+        "Clinician gets points for respect if they ask permission (before examining, before charting, etc) and for the patient’s preferences",
+        "The clinician asks “what would you prefer that I call you?”",
+        "Any time the clinician asks for permission",
+        "“Is it ok if I examine you?”"
+      ],
+      "examples": [
+        "what would you prefer that I call you?",
+        "Is it ok if I examine you?",
+        "What are some things you want to address today?"
+      ],
+      "anchors": {
+        "1": "Clinician did not show much respect: they may talk down to the patient or disregard them, treat the patient like they don’t know what they are doing, or assume that the patient may not understand or be able to make decisions.",
+        "2": "Clinician conducted a typical encounter with an average display of recognizing the patient’s dignity. There might be a few instances where there was disrespectful language but rare.",
+        "3": "Clinician displayed a lot of respect, took the patient seriously, and spoke in a respectful manner throughout the entire encounter. They showed the patient they recognize them as adults of equal intelligence or status and asked the patient to engage and add to the agenda."
+      },
+      "anchor_provenance": {
+        "1": {
+          "source_levels": [1, 2]
+        },
+        "2": {
+          "source_levels": [3]
+        },
+        "3": {
+          "source_levels": [4, 5]
+        }
+      }
+    },
+    "warmth": {
+      "name": "Warmth",
+      "definition": [
+        "How warm do you think the clinician was overall?",
+        "Examples:",
+        "Clinician asking them about their well-being/life/non-medical questions",
+        "Clinician attempts to relate to patient",
+        "The clinician may make comments about the patient’s loved one",
+        "Clinician treats the patient like a whole person (sometimes including family)",
+        "Small talk between the clinician and patient has to be about the patient"
+      ],
+      "examples": [],
+      "anchors": {
+        "1": "Clinician seems cold and technical, asking questions mainly to gather data and not providing space for the patient’s story. Responses are superficial or do not sound sincere, and there is no small talk about the patient.",
+        "2": "Clinician seems to be technical during parts of the encounter but also warm in other parts. Little small talk about the patient.",
+        "3": "Clinician seems to be warm and genuinely concerned for the patient throughout the entire conversation, asks rapport building questions about the patient’s story. Lots of small talk about the patient."
+      },
+      "anchor_provenance": {
+        "1": {
+          "source_levels": [1, 2]
+        },
+        "2": {
+          "source_levels": [3]
+        },
+        "3": {
+          "source_levels": [4, 5]
+        }
+      }
+    }
+  }
+}
